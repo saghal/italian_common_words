@@ -13,6 +13,20 @@ The words and examples have been integrated into an Anki deck to facilitate effi
   - **Audio files** generated using Python and Google’s gTTS library for each word and sentence
 - The flashcards are available in **Anki deck format**, making it easy to import and start learning right away.
 
+## Flashcard Preview
+
+Here is a preview of what the Anki flashcards look like:
+
+### Front of the Flashcard (Italian Word)
+
+![Front of Flashcard](./images/front.png)
+
+### Back of the Flashcard (Meaning, Examples, Audio)
+
+![Back of Flashcard](./images/back.png)
+
+These flashcards include the Italian word on the front, and when flipped, the back contains the meaning, 5 example sentences, and the option to play audio for both the word and sentences.
+
 ## Customizations
 
 This project is a fork of a previous repository, modified for **personal use**. Key changes and additions include:
