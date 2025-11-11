@@ -1,0 +1,1115 @@
+1000 Most Common Italian Words
+==================================================
+
+  1. il                   [article] - the
+  2. essere               [verb] - to be
+  3. di                   [preposition] - of
+  4. uno                  [article] - a
+  5. e                    [conjunction] - and
+  6. in                   [preposition] - in
+  7. a                    [preposition] - a, at, in, to, by, on
+  8. avere                [verb] - to have
+  9. per                  [preposition] - for
+ 10. non                  [adverb] - not
+ 11. si                   [pronoun] - itself, herself, himself
+ 12. ma                   [conjunction] - but
+ 13. da                   [preposition] - from
+ 14. con                  [preposition] - with
+ 15. lo                   [pronoun] - him, it
+ 16. anche                [adverb] - also
+ 17. questo               [determiner] - this
+ 18. tutto                [pronoun] - everything
+ 19. fare                 [verb] - to do
+ 20. che                  [pronoun] - that, who, which
+ 21. ci                   [pronoun] - us, it
+ 22. come                 [preposition] - as, like
+ 23. più                  [adverb] - more
+ 24. due                  [numeral] - two
+ 25. ora                  [adverb] - now
+ 26. solo                 [adverb] - only, alone
+ 27. ancora               [adverb] - still
+ 28. suo                  [determiner] - his
+ 29. poi                  [adverb] - then
+ 30. cosa                 [pronoun] - what
+ 31. molto                [adverb] - very much
+ 32. nuovo                [adjective] - new
+ 33. altro                [adjective] - another
+ 34. su                   [preposition] - on
+ 35. potere               [verb] - can, be able to
+ 36. primo                [adjective] - first
+ 37. oggi                 [adverb] - today
+ 38. così                 [adverb] - so, like this
+ 39. andare               [verb] - to go
+ 40. dovere               [verb] - to have to, must
+ 41. mi                   [pronoun] - me
+ 42. anno                 [noun] - year
+ 43. venire               [verb] - to come
+ 44. grande               [adjective] - big
+ 45. tempo                [noun] - time
+ 46. dire                 [verb] - to say
+ 47. arrivare             [verb] - to arrive
+ 48. senza                [preposition] - without
+ 49. nessuno              [determiner] - nobody, anybody
+ 50. lavoro               [noun] - work
+ 51. tra                  [preposition] - between
+ 52. o                    [conjunction] - or
+ 53. sempre               [adverb] - always
+ 54. giorno               [noun] - day
+ 55. problema             [noun] - problem
+ 56. volere               [verb] - to want
+ 57. poco                 [adverb] - little
+ 58. dopo                 [preposition] - after
+ 59. italiano             [adjective] - Italian
+ 60. perché               [conjunction] - why
+ 61. bene                 [adverb] - well
+ 62. stare                [verb] - to stay
+ 63. contro               [preposition] - against
+ 64. già                  [adverb] - already
+ 65. invece               [adverb] - instead
+ 66. qui                  [adverb] - here
+ 67. Roma                 [proper noun] - Rome
+ 68. quindi               [adverb] - so
+ 69. parlare              [verb] - to speak
+ 70. tre                  [numeral] - three
+ 71. parte                [noun] - part
+ 72. euro                 [noun] - euro
+ 73. casa                 [noun] - house, home
+ 74. quello               [pronoun] - that
+ 75. punto                [noun] - point
+ 76. presidente           [noun] - president
+ 77. governo              [noun] - government
+ 78. tornare              [verb] - to return
+ 79. via                  [noun] - street
+ 80. restare              [verb] - to remain
+ 81. sembrare             [verb] - to seem
+ 82. secondo              [adjective] - second
+ 83. squadra              [noun] - team
+ 84. caso                 [noun] - coincidence, instance
+ 85. vedere               [verb] - to see
+ 86. stesso               [adjective] - same
+ 87. Italia               [proper noun] - Italy
+ 88. quale                [pronoun] - which
+ 89. tanto                [determiner] - so much
+ 90. risultato            [noun] - result
+ 91. mai                  [adverb] - never
+ 92. insomma              [adverb] - in short
+ 93. però                 [adverb] - but
+ 94. niente               [pronoun] - nothing
+ 95. mercato              [noun] - market
+ 96. comunque             [adverb] - anyhow, anyway
+ 97. continuare           [verb] - to continue
+ 98. situazione           [noun] - situation
+ 99. dunque               [adverb] - so, therfore
+100. nostro               [determiner] - our
+101. finire               [verb] - to finish
+102. diverso              [adjective] - different
+103. loro                 [determiner] - their
+104. vero                 [adjective] - true
+105. parola               [noun] - word
+106. fine                 [noun] - end
+107. momento              [noun] - moment
+108. rimanere             [verb] - to stay
+109. forse                [adverb] - perhaps
+110. proprio              [adverb] - exactly, precisely
+111. buono                [adjective] - good
+112. storia               [noun] - history
+113. cambiare             [verb] - to exchange
+114. partita              [noun] - match
+115. calcio               [noun] - soccer, kick, calcium
+116. mio                  [pronoun] - my
+117. riferire             [verb] - to report, to tell
+118. chi                  [pronoun] - who
+119. adesso               [adverb] - now
+120. uomo                 [noun] - man
+121. notizia              [noun] - news
+122. persona              [noun] - person
+123. annunciare           [verb] - to announce
+124. troppo               [adverb] - too much
+125. prossimo             [adjective] - next
+126. io                   [pronoun] - I
+127. donna                [noun] - woman
+128. dare                 [verb] - to give
+129. prevedere            [verb] - to foresee
+130. città                [noun] - city
+131. mondo                [noun] - world
+132. posto                [noun] - place
+133. futuro               [noun] - the future
+134. vita                 [noun] - life
+135. giovane              [noun] - young person
+136. trovare              [verb] - to find
+137. vincere              [verb] - to win
+138. bello                [adjective] - nice
+139. davvero              [adverb] - really
+140. ecco                 [adverb] - here, there
+141. perdere              [verb] - to lose
+142. chiedere             [verb] - to ask
+143. pubblico             [adjective] - public
+144. strada               [noun] - street
+145. polizia              [noun] - police
+146. domani               [adverb] - tomorrow
+147. campo                [noun] - field
+148. ultimo               [adjective] - last
+149. gruppo               [noun] - group
+150. milione              [numeral] - million
+151. chiudere             [verb] - to close
+152. pensare              [verb] - to think
+153. qualche              [determiner] - some, a few, any
+154. allora               [adverb] - so
+155. gara                 [noun] - competition
+156. finale               [noun] - final
+157. politico             [adjective] - political
+158. consiglio            [noun] - advice
+159. centro               [noun] - center
+160. diventare            [verb] - to become
+161. se                   [conjunction] - if
+162. ogni                 [determiner] - every
+163. quanto               [pronoun] - how much, how many
+164. mese                 [noun] - month
+165. ieri                 [adverb] - yesterday
+166. intanto              [adverb] - in the meantime
+167. trattare             [verb] - to deal with
+168. gol                  [noun] - goal
+169. noi                  [pronoun] - we
+170. società              [noun] - society
+171. Milano               [proper noun] - Milan
+172. passare              [verb] - to pass
+173. sotto                [preposition] - under
+174. questione            [noun] - question
+175. giornata             [noun] - day
+176. ministro             [noun] - minister
+177. quattro              [numeral] - four
+178. prendere             [verb] - to take
+179. volta                [noun] - time
+180. carabiniere          [noun] - carabiniere
+181. gioco                [noun] - game
+182. prima                [adverb] - before
+183. cominciare           [verb] - to start
+184. soprattutto          [adverb] - especially, above all
+185. famiglia             [noun] - family
+186. progetto             [noun] - project
+187. no                   [adverb] - no
+188. numero               [noun] - number
+189. settimana            [noun] - week
+190. risposta             [noun] - reply
+191. meglio               [adverb] - better
+192. scuola               [noun] - school
+193. lui                  [pronoun] - he
+194. importante           [adjective] - important
+195. subito               [adverb] - immediately
+196. prezzo               [noun] - price
+197. difficile            [adjective] - hard
+198. nulla                [pronoun] - nothing
+199. paese                [noun] - country
+200. comune               [noun] - city hall, town hall
+201. programma            [noun] - program
+202. quasi                [adverb] - almost
+203. sapere               [verb] - to know
+204. bisognare            [verb] - it is necessary to
+205. servizio             [noun] - service
+206. dove                 [adverb] - where
+207. titolo               [noun] - title
+208. nome                 [noun] - name
+209. giocatore            [noun] - player
+210. stato                [noun] - state
+211. colpo                [noun] - blow
+212. sindaco              [noun] - mayor
+213. almeno               [adverb] - at least
+214. mancare              [verb] - to be missing
+215. nazionale            [adjective] - national
+216. vittima              [noun] - victim
+217. certo                [adverb] - of course
+218. europeo              [adjective] - European
+219. vittoria             [noun] - victory
+220. sicurezza            [noun] - safety
+221. fatto                [noun] - fact
+222. iniziare             [verb] - to begin, to start
+223. alcuno               [determiner] - not any, no
+224. dato                 [noun] - figure, data
+225. domenica             [noun] - Sunday
+226. crisi                [noun] - crisis
+227. avvenire             [verb] - to happen, future
+228. positivo             [adjective] - positive
+229. bastare              [verb] - to suffice, to be enough
+230. ragazzo              [noun] - boy
+231. sito                 [noun] - site
+232. rischio              [noun] - risk
+233. giocare              [verb] - to play
+234. stagione             [noun] - season
+235. verso                [preposition] - toward
+236. lungo                [adjective] - long
+237. scelta               [noun] - choice
+238. guerra               [noun] - war
+239. confermare           [verb] - to confirm
+240. condizione           [noun] - condition
+241. Napoli               [proper noun] - Naples
+242. resto                [noun] - rest
+243. rete                 [noun] - net
+244. morire               [verb] - to die
+245. terzo                [adjective] - third
+246. sì                   [interjection] - yes
+247. piazza               [noun] - square, plaza
+248. piccolo              [adjective] - small
+249. aperto               [adjective] - open
+250. decisione            [noun] - decision
+251. incontro             [noun] - meeting
+252. corso                [noun] - course
+253. musica               [noun] - music
+254. indagine             [noun] - investigation
+255. nota                 [noun] - note
+256. notte                [noun] - night
+257. ferito               [noun] - wounded
+258. polemica             [noun] - controversy
+259. politica             [noun] - politics
+260. sentire              [verb] - to feel
+261. voto                 [noun] - vote, mark
+262. accordo              [noun] - agreement
+263. chiaro               [adjective] - clear, light
+264. noto                 [adjective] - well-known
+265. aspettare            [verb] - to wait
+266. tecnico              [adjective] - technical
+267. decidere             [verb] - to decide
+268. pronto               [adjective] - ready
+269. infine               [adverb] - in the end
+270. bambino              [noun] - baby
+271. legge                [noun] - law
+272. ormai                [adverb] - at this point
+273. lasciare             [verb] - to leave
+274. ripresa              [noun] - recovery, shooting
+275. forza                [noun] - force
+276. piano                [noun] - plan
+277. banca                [noun] - bank
+278. cinque               [numeral] - five
+279. circa                [adverb] - approximately
+280. sperare              [verb] - to hope
+281. partire              [verb] - to leave
+282. nascere              [verb] - to be born
+283. aprire               [verb] - to open
+284. paura                [noun] - fear
+285. fuori                [adverb] - out
+286. regione              [noun] - region
+287. miliardo             [numeral] - billion
+288. attendere            [verb] - to wait for
+289. partito              [noun] - party
+290. incidente            [noun] - incident, accident
+291. sei                  [numeral] - six
+292. avanti               [adverb] - forward
+293. prova                [noun] - trial
+294. chiamare             [verb] - to call
+295. tifoso               [noun] - fan
+296. lei                  [pronoun] - she
+297. figlio               [noun] - son
+298. campionato           [noun] - championship
+299. allenatore           [noun] - trainer
+300. festa                [noun] - party
+301. serata               [noun] - evening
+302. forte                [adjective] - strong
+303. presentare           [verb] - to present
+304. meno                 [adverb] - less
+305. migliore             [adjective] - better
+306. mano                 [noun] - hand
+307. giugno               [noun] - June
+308. novità               [noun] - news
+309. locale               [adjective] - local
+310. esistere             [verb] - to exist
+311. operazione           [noun] - operation
+312. servire              [verb] - to serve
+313. lavorare             [verb] - to work
+314. attacco              [noun] - attack
+315. possibile            [adjective] - possible
+316. mezzo                [noun] - half
+317. piacere              [verb] - to like
+318. settembre            [noun] - September
+319. libero               [adjective] - free
+320. informazione         [noun] - information
+321. sfida                [noun] - challenge
+322. dubbio               [noun] - doubt
+323. processo             [noun] - process
+324. morto                [noun] - deceased
+325. rendere              [verb] - to give back
+326. minuto               [noun] - minute
+327. obiettivo            [noun] - objective
+328. esempio              [noun] - example
+329. calo                 [noun] - decrease, drop
+330. motivo               [noun] - reason
+331. male                 [adverb] - badly
+332. li                   [pronoun] - them
+333. rapporto             [noun] - report
+334. difesa               [noun] - defence
+335. protesta             [noun] - protest
+336. spettacolo           [noun] - show
+337. danno                [noun] - damage
+338. auto                 [noun] - car
+339. posizione            [noun] - position
+340. film                 [noun] - movie
+341. mettere              [verb] - to put
+342. fonte                [noun] - source
+343. oltre                [adverb] - beyond
+344. ovviamente           [adverb] - obviously
+345. provincia            [noun] - province
+346. domanda              [noun] - question
+347. intervento           [noun] - intervention
+348. conto                [noun] - bill
+349. quando               [conjunction] - when
+350. maggio               [noun] - May
+351. causa                [noun] - cause
+352. testa                [noun] - head
+353. controllo            [noun] - check
+354. ragione              [noun] - reason
+355. entrare              [verb] - to enter
+356. vicenda              [noun] - event
+357. ufficiale            [adjective] - official
+358. ricerca              [noun] - search, research
+359. giusto               [adjective] - right
+360. cittadino            [noun] - citizen
+361. sinistra             [noun] - left
+362. vi                   [pronoun] - you
+363. conoscere            [verb] - to know
+364. grave                [adjective] - serious
+365. bilancio             [noun] - balance
+366. anzi                 [conjunction] - actually, rather
+367. fino                 [preposition] - until
+368. unico                [adjective] - unique
+369. gente                [noun] - people
+370. cercare              [verb] - to look for, to seek
+371. appuntamento         [noun] - appointment
+372. alto                 [adjective] - tall
+373. portare              [verb] - to bring
+374. contratto            [noun] - contract
+375. ritorno              [noun] - return
+376. credere              [verb] - to believe
+377. azione               [noun] - action
+378. fuoco                [noun] - fire
+379. sindacato            [noun] - trade union
+380. fondo                [noun] - bottom
+381. particolare          [noun] - particular
+382. maggiore             [adjective] - greater
+383. costo                [noun] - cost
+384. carcere              [noun] - prison
+385. passo                [noun] - step
+386. soluzione            [noun] - solution
+387. attesa               [noun] - wait
+388. pieno                [adjective] - full
+389. sabato               [noun] - Saturday
+390. allarme              [noun] - alarm
+391. semplice             [adjective] - simple
+392. riuscire             [verb] - to be able to
+393. principale           [adjective] - principal
+394. reazione             [noun] - reaction
+395. linea                [noun] - line
+396. fiducia              [noun] - trust
+397. sogno                [noun] - dream
+398. massimo              [adjective] - maximum
+399. affermare            [verb] - to assert
+400. pomeriggio           [noun] - afternoon
+401. idea                 [noun] - idea
+402. zona                 [noun] - area
+403. ministero            [noun] - ministry
+404. amico                [noun] - friend
+405. crescita             [noun] - growth
+406. scrivere             [verb] - to write
+407. scontro              [noun] - clash, crash
+408. soldi                [noun] - money
+409. giudizio             [noun] - judgment
+410. settore              [noun] - sector
+411. dollaro              [noun] - dollar
+412. sorpresa             [noun] - surprise
+413. luglio               [noun] - July
+414. diritto              [noun] - the right side
+415. episodio             [noun] - episode
+416. fermare              [verb] - to stop
+417. duro                 [adjective] - hard
+418. sistema              [noun] - system
+419. gennaio              [noun] - January
+420. riportare            [verb] - report, bring back
+421. quarto               [adjective] - fourth
+422. inoltre              [adverb] - furthermore
+423. azzurro              [adjective] - light blue
+424. rispondere           [verb] - to answer
+425. la                   [pronoun] - her, it
+426. inizio               [noun] - start
+427. stampa               [noun] - press
+428. rosso                [adjective] - red
+429. entro                [preposition] - by, within
+430. morte                [noun] - death
+431. proposta             [noun] - proposal
+432. maggioranza          [noun] - majority
+433. ospedale             [noun] - hospital
+434. ottobre              [noun] - October
+435. discorso             [noun] - speech
+436. realtà               [noun] - reality
+437. vendita              [noun] - sale
+438. scena                [noun] - scene
+439. rialzo               [noun] - rise
+440. arbitro              [noun] - referee
+441. seguire              [verb] - to follow
+442. valore               [noun] - value
+443. commissione          [noun] - commission
+444. uscire               [verb] - to go out
+445. grazie               [noun] - thank you
+446. infatti              [adverb] - indeed
+447. modo                 [noun] - way
+448. crescere             [verb] - to grow
+449. accadere             [verb] - to happen
+450. scattare             [verb] - shoot, take a picture
+451. aprile               [noun] - April
+452. amore                [noun] - love
+453. commento             [noun] - comment
+454. indagare             [verb] - to investigate
+455. arrivo               [noun] - arrival
+456. panchina             [noun] - bench
+457. vicino               [adjective] - near
+458. medico               [noun] - doctor
+459. economico            [adjective] - economic
+460. marzo                [noun] - March
+461. senso                [noun] - sense
+462. manifestazione       [noun] - expression, demonstration
+463. immagine             [noun] - image
+464. serie                [noun] - series
+465. pure                 [adverb] - also
+466. confronto            [noun] - comparison
+467. scegliere            [verb] - to choose
+468. fronte               [noun] - forehead
+469. segno                [noun] - sign
+470. fra                  [preposition] - between
+471. chiusura             [noun] - closure
+472. interno              [noun] - inside, interior
+473. corsa                [noun] - race
+474. americano            [adjective] - American
+475. arresto              [noun] - arrest
+476. classifica           [noun] - rank, chart
+477. registrare           [verb] - to record, to register
+478. arrestare            [verb] - to stop
+479. comunicare           [verb] - to communicate
+480. fase                 [noun] - phase
+481. cambio               [noun] - exchange
+482. richiesta            [noun] - request
+483. chiesa               [noun] - church
+484. generale             [adjective] - general
+485. facile               [adjective] - easy
+486. intervenire          [verb] - to intervene
+487. riguardare           [verb] - review, take care of yourself
+488. occhio               [noun] - eye
+489. regola               [noun] - rule
+490. formazione           [noun] - education, development
+491. elettorale           [adjective] - electoral
+492. presto               [adverb] - soon
+493. ruolo                [noun] - role
+494. corpo                [noun] - body
+495. cuore                [noun] - heart
+496. ordine               [noun] - order
+497. nero                 [adjective] - black
+498. atto                 [noun] - act
+499. dicembre             [noun] - December
+500. giro                 [noun] - turn, stroll
+501. libro                [noun] - book
+502. piede                [noun] - foot
+503. durare               [verb] - to last
+504. dettaglio            [noun] - detail
+505. violenza             [noun] - violence
+506. termine              [noun] - end
+507. traffico             [noun] - traffic
+508. studio               [noun] - study
+509. bisogno              [noun] - need
+510. accusa               [noun] - accusation
+511. partenza             [noun] - departure
+512. errore               [noun] - mistake
+513. proseguire           [verb] - to continue
+514. agosto               [noun] - August
+515. vivere               [verb] - to live
+516. voce                 [noun] - voice
+517. scorso               [adjective] - last
+518. pagina               [noun] - page
+519. sera                 [noun] - evening
+520. guardare             [verb] - to watch
+521. contrario            [noun] - contrary
+522. tema                 [noun] - theme
+523. febbraio             [noun] - February
+524. spesso               [adverb] - often
+525. Europa               [proper noun] - Europe
+526. denuncia             [noun] - complaint
+527. spazio               [noun] - space
+528. porta                [noun] - door
+529. impresa              [noun] - enterprise, endeavour
+530. verità               [noun] - truth
+531. stop                 [noun] - stop
+532. naturalmente         [adverb] - naturally
+533. presente             [adjective] - present
+534. livello              [noun] - level
+535. sentenza             [noun] - verdict, judgment
+536. colore               [noun] - color
+537. iniziativa           [noun] - initiative
+538. base                 [noun] - base, fundamentals
+539. civile               [adjective] - civil
+540. dieci                [numeral] - ten
+541. cinema               [noun] - cinema
+542. regionale            [adjective] - regional
+543. elezione             [noun] - election
+544. riprendere           [verb] - get back, resume
+545. salire               [verb] - to go up
+546. storico              [adjective] - historical
+547. sport                [noun] - sport
+548. vertice              [noun] - vertex, summit
+549. silenzio             [noun] - silence
+550. viaggio              [noun] - voyage
+551. ti                   [pronoun] - you
+552. aumento              [noun] - increase
+553. campione             [noun] - champion
+554. rischiare            [verb] - to risk
+555. analista             [noun] - analyst
+556. entrambi             [pronoun] - both
+557. coppia               [noun] - couple
+558. negativo             [adjective] - negative
+559. aumentare            [verb] - to increase
+560. giornalista          [noun] - journalist
+561. inchiesta            [noun] - investigation
+562. provare              [verb] - to try
+563. insieme              [adverb] - together
+564. sicuramente          [adverb] - surely
+565. vista                [noun] - view
+566. novembre             [noun] - November
+567. puntare              [verb] - head towards, aim for
+568. denunciare           [verb] - to report
+569. personale            [adjective] - personal
+570. sette                [numeral] - seven
+571. sviluppo             [noun] - development
+572. soltanto             [adverb] - only
+573. pace                 [noun] - peace
+574. versione             [noun] - version
+575. foto                 [noun] - photo
+576. contare              [verb] - to count
+577. colpa                [noun] - fault
+578. lì                   [adverb] - there
+579. concerto             [noun] - concert
+580. chiuso               [adjective] - closed
+581. premio               [noun] - prize
+582. leader               [noun] - leader
+583. ottimo               [adjective] - very good, great
+584. totale               [adjective] - total
+585. me                   [pronoun] - me
+586. rispetto             [noun] - respect
+587. Milan                [proper noun] - Milan
+588. riforma              [noun] - reform
+589. tensione             [noun] - tension
+590. purtroppo            [adverb] - unfortunately
+591. gratuito             [adjective] - free
+592. capire               [verb] - to understand
+593. breve                [adjective] - short
+594. acqua                [noun] - water
+595. funzionare           [verb] - to work
+596. rigore               [noun] - rigor, strictness
+597. tuttavia             [conjunction] - but, however
+598. cultura              [noun] - culture
+599. derby                [noun] - derby
+600. occasione            [noun] - occasion
+601. video                [noun] - video
+602. attenzione           [noun] - attention
+603. record               [noun] - record
+604. spesa                [noun] - expense
+605. capo                 [noun] - head
+606. protagonista         [noun] - main character
+607. giallo               [noun] - yellow
+608. battaglia            [noun] - battle
+609. lista                [noun] - list
+610. apparire             [verb] - to appear
+611. testo                [noun] - text
+612. segnale              [noun] - signal
+613. leggere              [verb] - to read
+614. doppio               [adjective] - double
+615. quotidiano           [noun] - daily
+616. giudice              [noun] - judge
+617. durante              [preposition] - during
+618. territorio           [noun] - territory
+619. passato              [noun] - past
+620. tedesco              [adjective] - German
+621. pagare               [verb] - to pay
+622. vecchio              [adjective] - old
+623. direttore            [noun] - director
+624. teatro               [noun] - theater
+625. agente               [noun] - agent
+626. differenza           [noun] - difference
+627. internazionale       [adjective] - international
+628. Parma                [proper noun] - Parma
+629. francese             [adjective] - French
+630. speranza             [noun] - hope
+631. tuo                  [determiner] - your
+632. messaggio            [noun] - message
+633. acquisto             [noun] - purchase
+634. studente             [noun] - student
+635. sciopero             [noun] - strike
+636. padre                [noun] - father
+637. portavoce            [noun] - spokeperson
+638. premier              [noun] - premier
+639. terra                [noun] - soil, Earth
+640. completo             [adjective] - full
+641. nemmeno              [adverb] - not even
+642. appello              [noun] - appeal
+643. disposizione         [noun] - disposal
+644. lira                 [noun] - lira
+645. allenamento          [noun] - training
+646. rivelare             [verb] - to reveal
+647. provvedimento        [noun] - measure
+648. qualità              [noun] - quality
+649. sconfitta            [noun] - defeat
+650. magari               [adverb] - maybe, I wish!
+651. Torino               [proper noun] - Turin
+652. carta                [noun] - paper
+653. disponibile          [adjective] - available
+654. tribunale            [noun] - court
+655. responsabile         [noun] - person in charge
+656. succedere            [verb] - to happen, to succeed
+657. seguito              [noun] - sequel, continuation
+658. pericolo             [noun] - danger
+659. club                 [noun] - club
+660. azienda              [noun] - company
+661. media                [noun] - average
+662. emergenza            [noun] - emergency
+663. spiegare             [verb] - to explain
+664. capitale             [noun] - capital
+665. luogo                [noun] - place
+666. sociale              [adjective] - social
+667. tipo                 [noun] - character, type, dude
+668. Lazio                [proper noun] - Lazio
+669. candidato            [noun] - candidate
+670. numeroso             [adjective] - numerous
+671. ricorso              [noun] - appeal
+672. otto                 [numeral] - eight
+673. cifra                [noun] - figure
+674. stadio               [noun] - stadium
+675. campagna             [noun] - countryside
+676. estero               [noun] - abroad
+677. addio                [noun] - goodbye
+678. risultare            [verb] - result in, turn out to be
+679. dichiarare           [verb] - to declare
+680. tenere               [verb] - to hold
+681. le                   [pronoun] - her, them
+682. battere              [verb] - to beat
+683. parere               [verb] - seem, appear
+684. Palermo              [proper noun] - Palermo
+685. valere               [verb] - to be worth
+686. modello              [noun] - model
+687. luce                 [noun] - light
+688. toccare              [verb] - to touch
+689. struttura            [noun] - structure
+690. merito               [noun] - merit
+691. sportivo             [adjective] - sports
+692. vantaggio            [noun] - advantage, benefit
+693. pubblicare           [verb] - to publish
+694. tragedia             [noun] - tragedy
+695. evento               [noun] - event
+696. visita               [noun] - visit
+697. dichiarazione        [noun] - declaration
+698. bianco               [adjective] - white
+699. forma                [noun] - form
+700. scendere             [verb] - to descend, to go down
+701. recuperare           [verb] - to retrieve, to recover
+702. sede                 [noun] - branch
+703. comunicato           [noun] - public notice
+704. misura               [noun] - measure
+705. effetto              [noun] - effect
+706. ragazza              [noun] - girl
+707. ipotesi              [noun] - hypothesis
+708. difficoltà           [noun] - difficulty
+709. impegno              [noun] - commitment
+710. mondiale             [adjective] - world
+711. lontano              [adjective] - distant
+712. inutile              [adjective] - useless
+713. segretario           [noun] - secretary
+714. vigile               [noun] - traffic warden
+715. limite               [noun] - limit
+716. opposizione          [noun] - opposition
+717. pesante              [adjective] - heavy
+718. attualmente          [adverb] - currently
+719. lunedì               [noun] - Monday
+720. pista                [noun] - track
+721. ricordare            [verb] - to remember
+722. mostra               [noun] - show
+723. genitore             [noun] - parent
+724. svolgere             [verb] - carry out
+725. eppure               [conjunction] - and yet, but yet
+726. stavolta             [adverb] - this time
+727. presenza             [noun] - presence
+728. militare             [adjective] - military
+729. Paolo                [proper noun] - Paul
+730. responsabilità       [noun] - responsibility
+731. turno                [noun] - shift
+732. mare                 [noun] - sea
+733. solidarietà          [noun] - solidarity
+734. completamente        [adverb] - completely
+735. periodo              [noun] - period
+736. fenomeno             [noun] - phenomenon
+737. durata               [noun] - duration
+738. fondamentale         [adjective] - basic
+739. tranquillo           [adjective] - calm
+740. solito               [noun] - usual
+741. serio                [adjective] - serious
+742. raggiungere          [verb] - to reach
+743. neanche              [adverb] - neither
+744. partecipazione       [noun] - participation
+745. risalire             [verb] - date back to, go back up
+746. assolutamente        [adverb] - absolutely
+747. aiuto                [noun] - help
+748. esperienza           [noun] - experience
+749. vario                [adjective] - varied
+750. giovedì              [noun] - Thursday
+751. occorrere            [verb] - to be required
+752. trattativa           [noun] - negotiation
+753. finora               [adverb] - till now
+754. fissare              [verb] - set, fixate on, secure
+755. opera                [noun] - endeavour, opera
+756. mattina              [noun] - morning
+757. Natale               [proper noun] - Christmas
+758. debole               [adjective] - weak
+759. concludere           [verb] - to conclude
+760. sbagliare            [verb] - to make a mistake
+761. area                 [noun] - area
+762. terminare            [verb] - to end
+763. veramente            [adverb] - truly
+764. interessante         [adjective] - interesting
+765. ce                   [pronoun] - us, to us
+766. perfetto             [adjective] - perfect
+767. lotta                [noun] - struggle
+768. finanziario          [adjective] - financial
+769. dietro               [adverb] - behind
+770. borsa                [noun] - bag
+771. compagnia            [noun] - company
+772. documento            [noun] - document
+773. giunta               [noun] - council
+774. centrale             [adjective] - central
+775. aria                 [noun] - air
+776. precedente           [adjective] - previous
+777. pioggia              [noun] - rain
+778. affidare             [verb] - to entrust
+779. critica              [noun] - criticism
+780. straordinario        [adjective] - extraordinary, overtime
+781. correre              [verb] - to run
+782. passione             [noun] - passion
+783. privato              [adjective] - private
+784. bloccare             [verb] - to block
+785. faccia               [noun] - face
+786. segnare              [verb] - to mark
+787. accettare            [verb] - to accept
+788. esperto              [noun] - expert
+789. fermo                [adjective] - fixed
+790. appunto              [adverb] - precisely
+791. colpire              [verb] - to hit
+792. avvio                [noun] - start
+793. segreto              [noun] - secret
+794. ufficio              [noun] - office
+795. usare                [verb] - to use
+796. scoprire             [verb] - discover
+797. macchina             [noun] - machine
+798. destra               [noun] - right
+799. decisivo             [adjective] - decisive
+800. taglio               [noun] - cut
+801. giustizia            [noun] - justice
+802. immigrato            [noun] - immigrant
+803. avversario           [noun] - opponent
+804. previsione           [noun] - forecast
+805. rappresentare        [verb] - to represent
+806. dibattito            [noun] - debate
+807. cedere               [verb] - to surrender
+808. libertà              [noun] - freedom
+809. ingresso             [noun] - entrance
+810. produzione           [noun] - production
+811. praticamente         [adverb] - practically
+812. clima                [noun] - climate
+813. sicuro               [adjective] - safe
+814. migliorare           [verb] - to improve
+815. sud                  [noun] - south
+816. metà                 [noun] - half
+817. difendere            [verb] - to defend, to stick up for
+818. caldo                [adjective] - hot
+819. cura                 [noun] - cure
+820. lanciare             [verb] - to launch
+821. vostro               [determiner] - your
+822. guadagnare           [verb] - to earn
+823. falso                [adjective] - false
+824. prodotto             [noun] - product
+825. manovra              [noun] - maneuvre, ploy
+826. speciale             [adjective] - special
+827. offerta              [noun] - offer
+828. giornale             [noun] - newspaper
+829. cambiamento          [noun] - a change
+830. rivoluzione          [noun] - revolution
+831. parlamento           [noun] - parliament
+832. caccia               [noun] - hunting
+833. attività             [noun] - activity
+834. replica              [noun] - reply
+835. discussione          [noun] - discussion
+836. emozione             [noun] - emotion
+837. superare             [verb] - to exceed
+838. soccorso             [noun] - rescue
+839. necessario           [adjective] - necessary
+840. svolta               [noun] - turn, turning point
+841. repubblica           [noun] - republic
+842. lavoratore           [noun] - worker
+843. pericoloso           [adjective] - dangerous
+844. probabilmente        [adverb] - probably
+845. pareggio             [noun] - tie
+846. impossibile          [adjective] - impossible
+847. autorità             [noun] - authority
+848. sostenere            [verb] - support, maintain
+849. esterno              [adjective] - external
+850. realizzare           [verb] - to achieve
+851. data                 [noun] - date
+852. piuttosto            [adverb] - rather
+853. televisione          [noun] - television
+854. biglietto            [noun] - ticket
+855. spagnolo             [adjective] - Spanish
+856. ricevere             [verb] - to receive
+857. capoluogo            [noun] - capital
+858. ricordo              [noun] - memory
+859. soddisfazione        [noun] - satisfaction
+860. apertura             [noun] - opening
+861. appena               [adverb] - just, barely
+862. movimento            [noun] - movement
+863. esame                [noun] - examination
+864. riunione             [noun] - meeting
+865. utile                [adjective] - useful
+866. seduta               [noun] - sitting
+867. accusare             [verb] - to accuse
+868. altrimenti           [adverb] - otherwise
+869. fuga                 [noun] - escape
+870. rifiuto              [noun] - rejection
+871. fiamma               [noun] - flame
+872. velocità             [noun] - speed
+873. salute               [noun] - health
+874. percorso             [noun] - path
+875. match                [noun] - match
+876. madre                [noun] - mother
+877. volo                 [noun] - flight
+878. disagio              [noun] - discomfort
+879. treno                [noun] - train
+880. ritardo              [noun] - delay
+881. raccontare           [verb] - to tell
+882. fortuna              [noun] - luck
+883. inglese              [adjective] - English
+884. conseguenza          [noun] - consequence
+885. ambiente             [noun] - environment
+886. voi                  [pronoun] - you
+887. terremoto            [noun] - earthquake
+888. lettera              [noun] - letter
+889. porre                [verb] - put, set, pay
+890. difensore            [noun] - defender
+891. strategia            [noun] - strategy
+892. sangue               [noun] - blood
+893. carriera             [noun] - career
+894. ritiro               [noun] - withdrawal
+895. grosso               [adjective] - big
+896. costare              [verb] - to cost
+897. umano                [adjective] - human
+898. conferma             [noun] - confirmation
+899. conclusione          [noun] - conclusion
+900. votare               [verb] - to vote
+901. firma                [noun] - signature
+902. sala                 [noun] - room
+903. finalmente           [adverb] - at last
+904. creare               [verb] - to create
+905. trasporto            [noun] - transport
+906. considerare          [verb] - to consider
+907. possibilità          [noun] - possibility
+908. salvare              [verb] - to save
+909. decisamente          [adverb] - decidedly
+910. venerdì              [noun] - Friday
+911. dimenticare          [verb] - to forget
+912. vacanza              [noun] - vacation
+913. centrosinistra       [noun] - center left
+914. ottenere             [verb] - to obtain
+915. partecipare          [verb] - to participate in
+916. assoluto             [adjective] - absolute
+917. investimento         [noun] - investment
+918. vivo                 [adjective] - live
+919. direzione            [noun] - direction
+920. arte                 [noun] - art
+921. tale                 [determiner] - such
+922. oro                  [noun] - gold
+923. camera               [noun] - room
+924. relazione            [noun] - relationship, link
+925. abbastanza           [adverb] - enough
+926. zero                 [numeral] - zero
+927. stile                [noun] - style
+928. preoccupazione       [noun] - worry
+929. personaggio          [noun] - character
+930. bravo                [adjective] - good at something
+931. incredibile          [adjective] - incredible
+932. quota                [noun] - amount
+933. definitivo           [adjective] - final, definitive
+934. mercoledì            [noun] - Wednesday
+935. basso                [adjective] - low
+936. categoria            [noun] - category
+937. dolore               [noun] - ache
+938. capitolo             [noun] - chapter
+939. popolo               [noun] - people
+940. effettuare           [verb] - to make
+941. immediato            [adjective] - immediate
+942. ulteriore            [adjective] - further
+943. lezione              [noun] - lesson
+944. furto                [noun] - theft
+945. meritare             [verb] - to deserve
+946. brutto               [adjective] - ugly
+947. preparare            [verb] - to prepare
+948. dipendere            [verb] - to depend
+949. minimo               [adjective] - least
+950. firmare              [verb] - to sign
+951. strano               [adjective] - strange
+952. interesse            [noun] - interest
+953. peggio               [noun] - the worst part
+954. nessun               [determiner] - no, none
+955. neve                 [noun] - snow
+956. qualcuno             [pronoun] - someone
+957. netto                [adjective] - net
+958. felice               [adjective] - happy
+959. miracolo             [noun] - miracle
+960. democrazia           [noun] - democracy
+961. ribasso              [noun] - depreciation
+962. progresso            [noun] - progress
+963. turismo              [noun] - tourism
+964. rientrare            [verb] - return, go/come back
+965. magistrato           [noun] - magistrate
+966. contento             [adjective] - pleased
+967. chilometro           [noun] - kilometer
+968. guida                [noun] - guide
+969. terreno              [noun] - ground
+970. sereno               [adjective] - serene
+971. reale                [adjective] - real
+972. agenzia              [noun] - agency
+973. contenuto            [noun] - content
+974. guardia              [noun] - guard
+975. passaggio            [noun] - passage
+976. familiare            [noun] - relative
+977. complesso            [adjective] - complex
+978. memoria              [noun] - memory
+979. offrire              [verb] - to offer
+980. corte                [noun] - court
+981. attaccante           [noun] - striker
+982. prestazione          [noun] - performance
+983. traccia              [noun] - trace
+984. ospite               [noun] - guest
+985. freddo               [adjective] - cold
+986. dimissione           [noun] - discharge
+987. moglie               [noun] - wife
+988. affare               [noun] - business, matter
+989. quadro               [noun] - painting, picture
+990. interessare          [verb] - to interest
+991. dialogo              [noun] - dialogue
+992. gli                  [pronoun] - him, them
+993. approvare            [verb] - to approve
+994. articolo             [noun] - article
+995. ritrovare            [verb] - to find
+996. estate               [noun] - summer
+997. stazione             [noun] - station
+998. attore               [noun] - actor
+999. promozione           [noun] - promotion
+1000. palla                [noun] - ball
+1001. cliente              [noun] - customer
+1002. fratello             [noun] - brother
+1003. normale              [adjective] - normal
+1004. test                 [noun] - test
+1005. sanità               [noun] - healthcare
+1006. parco                [noun] - park
+1007. popolazione          [noun] - population
+1008. dividere             [verb] - to divide
+1009. cinese               [adjective] - Chinese
+1010. angolo               [noun] - angle
+1011. porto                [noun] - port
+1012. segnalare            [verb] - signal, point out
+1013. presentazione        [noun] - presentation
+1014. straniero            [adjective] - foreign
+1015. mistero              [noun] - mystery
+1016. Firenze              [proper noun] - Florence
+1017. concorso             [noun] - competitive exam, contest
+1018. russo                [adjective] - Russian
+1019. vuoto                [adjective] - empty
+1020. genere               [noun] - genre, gender
+1021. giungere             [verb] - to come
+1022. ascoltare            [verb] - to listen
+1023. nord                 [noun] - north
+1024. aspetto              [noun] - look
+1025. gestione             [noun] - management
+1026. pezzo                [noun] - piece
+1027. contatto             [noun] - contact
+1028. destino              [noun] - destiny
+1029. autore               [noun] - author
+1030. incontrare           [verb] - to encounter, to meet
+1031. dedicare             [verb] - to dedicate
+1032. decreto              [noun] - decree
+1033. attuale              [adjective] - current
+1034. regia                [noun] - direction
+1035. web                  [noun] - web
+1036. pensione             [noun] - pension
+1037. scudetto             [noun] - championship
+1038. associazione         [noun] - association
+1039. riferimento          [noun] - reference
+1040. stasera              [adverb] - this evening
+1041. portiere             [noun] - doorman
+1042. palazzo              [noun] - building
+1043. gesto                [noun] - gesture
+1044. successivo           [adjective] - following
+1045. escludere            [verb] - to exclude
+1046. aiutare              [verb] - to help
+1047. amministrazione      [noun] - administration
+1048. critico              [adjective] - critical
+1049. tappa                [noun] - stage
+1050. smentire             [verb] - to deny
+1051. pensiero             [noun] - thought
+1052. concreto             [adjective] - concrete
+1053. mantenere            [verb] - to keep
+1054. organizzare          [verb] - to organize
+1055. prospettiva          [noun] - perspective
+1056. ripartire            [verb] - to leave again, recover
+1057. pilota               [noun] - pilot
+1058. ammontare            [verb] - amount to
+1059. superiore            [adjective] - superior
+1060. comunicazione        [noun] - communication
+1061. sequestrare          [verb] - to confiscate, to seize
+1062. salvezza             [noun] - salvation
+1063. neppure              [adverb] - either, not even
+1064. tassa                [noun] - tax
+1065. anziano              [noun] - an elderly
+1066. scenario             [noun] - scenario, scenery
+1067. democratico          [adjective] - democratic
+1068. quartiere            [noun] - district
+1069. né                   [conjunction] - neither...nor
+1070. economia             [noun] - economy
+1071. ricco                [adjective] - rich
+1072. fiscale              [adjective] - financial
+1073. vincente             [adjective] - winning
+1074. centrocampo          [noun] - midfield
+1075. risorsa              [noun] - resource
+1076. cadere               [verb] - to fall
+1077. utilizzare           [verb] - to use
+1078. compagno             [noun] - companion
+1079. provinciale          [adjective] - provincial
+1080. moda                 [noun] - fashion
+1081. scambio              [noun] - exchange
+1082. verde                [adjective] - green
+1083. Brasile              [proper noun] - Brazil
+1084. canzone              [noun] - song
+1085. rosa                 [noun] - rose
+1086. Mario                [proper noun] - Mario
+1087. accertamento         [noun] - verification
+1088. quinto               [adjective] - fifth
+1089. mamma                [noun] - mom
+1090. signore              [noun] - mister, sir
+1091. chiarire             [verb] - to clarify
+1092. cielo                [noun] - sky
+1093. classico             [adjective] - classic
+1094. incendio             [noun] - fire
+1095. parlamentare         [adjective] - parliamentary
+1096. diretto              [adjective] - direct
+1097. intorno              [adverb] - around
+1098. evitare              [verb] - to avoid
+1099. industriale          [adjective] - industrial
+1100. amare                [verb] - to love
+1101. definire             [verb] - to define
+1102. dentro               [adverb] - inside
+1103. consumatore          [noun] - consumer
+1104. legale               [adjective] - legal, lawful
+1105. flessione            [noun] - push-up, curve
+1106. intero               [adjective] - entire
+1107. decina               [noun] - dozens
+1108. muro                 [noun] - wall
+1109. stella               [noun] - a star
+1110. vendere              [verb] - to sell
+1111. convegno             [noun] - meeting
+1112. rispettare           [verb] - to respect

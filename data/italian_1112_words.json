@@ -1,0 +1,5562 @@
+[
+  {
+    "word": "il",
+    "pos": "article",
+    "definition": "the"
+  },
+  {
+    "word": "essere",
+    "pos": "verb",
+    "definition": "to be"
+  },
+  {
+    "word": "di",
+    "pos": "preposition",
+    "definition": "of"
+  },
+  {
+    "word": "uno",
+    "pos": "article",
+    "definition": "a"
+  },
+  {
+    "word": "e",
+    "pos": "conjunction",
+    "definition": "and"
+  },
+  {
+    "word": "in",
+    "pos": "preposition",
+    "definition": "in"
+  },
+  {
+    "word": "a",
+    "pos": "preposition",
+    "definition": "a, at, in, to, by, on"
+  },
+  {
+    "word": "avere",
+    "pos": "verb",
+    "definition": "to have"
+  },
+  {
+    "word": "per",
+    "pos": "preposition",
+    "definition": "for"
+  },
+  {
+    "word": "non",
+    "pos": "adverb",
+    "definition": "not"
+  },
+  {
+    "word": "si",
+    "pos": "pronoun",
+    "definition": "itself, herself, himself"
+  },
+  {
+    "word": "ma",
+    "pos": "conjunction",
+    "definition": "but"
+  },
+  {
+    "word": "da",
+    "pos": "preposition",
+    "definition": "from"
+  },
+  {
+    "word": "con",
+    "pos": "preposition",
+    "definition": "with"
+  },
+  {
+    "word": "lo",
+    "pos": "pronoun",
+    "definition": "him, it"
+  },
+  {
+    "word": "anche",
+    "pos": "adverb",
+    "definition": "also"
+  },
+  {
+    "word": "questo",
+    "pos": "determiner",
+    "definition": "this"
+  },
+  {
+    "word": "tutto",
+    "pos": "pronoun",
+    "definition": "everything"
+  },
+  {
+    "word": "fare",
+    "pos": "verb",
+    "definition": "to do"
+  },
+  {
+    "word": "che",
+    "pos": "pronoun",
+    "definition": "that, who, which"
+  },
+  {
+    "word": "ci",
+    "pos": "pronoun",
+    "definition": "us, it"
+  },
+  {
+    "word": "come",
+    "pos": "preposition",
+    "definition": "as, like"
+  },
+  {
+    "word": "più",
+    "pos": "adverb",
+    "definition": "more"
+  },
+  {
+    "word": "due",
+    "pos": "numeral",
+    "definition": "two"
+  },
+  {
+    "word": "ora",
+    "pos": "adverb",
+    "definition": "now"
+  },
+  {
+    "word": "solo",
+    "pos": "adverb",
+    "definition": "only, alone"
+  },
+  {
+    "word": "ancora",
+    "pos": "adverb",
+    "definition": "still"
+  },
+  {
+    "word": "suo",
+    "pos": "determiner",
+    "definition": "his"
+  },
+  {
+    "word": "poi",
+    "pos": "adverb",
+    "definition": "then"
+  },
+  {
+    "word": "cosa",
+    "pos": "pronoun",
+    "definition": "what"
+  },
+  {
+    "word": "molto",
+    "pos": "adverb",
+    "definition": "very much"
+  },
+  {
+    "word": "nuovo",
+    "pos": "adjective",
+    "definition": "new"
+  },
+  {
+    "word": "altro",
+    "pos": "adjective",
+    "definition": "another"
+  },
+  {
+    "word": "su",
+    "pos": "preposition",
+    "definition": "on"
+  },
+  {
+    "word": "potere",
+    "pos": "verb",
+    "definition": "can, be able to"
+  },
+  {
+    "word": "primo",
+    "pos": "adjective",
+    "definition": "first"
+  },
+  {
+    "word": "oggi",
+    "pos": "adverb",
+    "definition": "today"
+  },
+  {
+    "word": "così",
+    "pos": "adverb",
+    "definition": "so, like this"
+  },
+  {
+    "word": "andare",
+    "pos": "verb",
+    "definition": "to go"
+  },
+  {
+    "word": "dovere",
+    "pos": "verb",
+    "definition": "to have to, must"
+  },
+  {
+    "word": "mi",
+    "pos": "pronoun",
+    "definition": "me"
+  },
+  {
+    "word": "anno",
+    "pos": "noun",
+    "definition": "year"
+  },
+  {
+    "word": "venire",
+    "pos": "verb",
+    "definition": "to come"
+  },
+  {
+    "word": "grande",
+    "pos": "adjective",
+    "definition": "big"
+  },
+  {
+    "word": "tempo",
+    "pos": "noun",
+    "definition": "time"
+  },
+  {
+    "word": "dire",
+    "pos": "verb",
+    "definition": "to say"
+  },
+  {
+    "word": "arrivare",
+    "pos": "verb",
+    "definition": "to arrive"
+  },
+  {
+    "word": "senza",
+    "pos": "preposition",
+    "definition": "without"
+  },
+  {
+    "word": "nessuno",
+    "pos": "determiner",
+    "definition": "nobody, anybody"
+  },
+  {
+    "word": "lavoro",
+    "pos": "noun",
+    "definition": "work"
+  },
+  {
+    "word": "tra",
+    "pos": "preposition",
+    "definition": "between"
+  },
+  {
+    "word": "o",
+    "pos": "conjunction",
+    "definition": "or"
+  },
+  {
+    "word": "sempre",
+    "pos": "adverb",
+    "definition": "always"
+  },
+  {
+    "word": "giorno",
+    "pos": "noun",
+    "definition": "day"
+  },
+  {
+    "word": "problema",
+    "pos": "noun",
+    "definition": "problem"
+  },
+  {
+    "word": "volere",
+    "pos": "verb",
+    "definition": "to want"
+  },
+  {
+    "word": "poco",
+    "pos": "adverb",
+    "definition": "little"
+  },
+  {
+    "word": "dopo",
+    "pos": "preposition",
+    "definition": "after"
+  },
+  {
+    "word": "italiano",
+    "pos": "adjective",
+    "definition": "Italian"
+  },
+  {
+    "word": "perché",
+    "pos": "conjunction",
+    "definition": "why"
+  },
+  {
+    "word": "bene",
+    "pos": "adverb",
+    "definition": "well"
+  },
+  {
+    "word": "stare",
+    "pos": "verb",
+    "definition": "to stay"
+  },
+  {
+    "word": "contro",
+    "pos": "preposition",
+    "definition": "against"
+  },
+  {
+    "word": "già",
+    "pos": "adverb",
+    "definition": "already"
+  },
+  {
+    "word": "invece",
+    "pos": "adverb",
+    "definition": "instead"
+  },
+  {
+    "word": "qui",
+    "pos": "adverb",
+    "definition": "here"
+  },
+  {
+    "word": "Roma",
+    "pos": "proper noun",
+    "definition": "Rome"
+  },
+  {
+    "word": "quindi",
+    "pos": "adverb",
+    "definition": "so"
+  },
+  {
+    "word": "parlare",
+    "pos": "verb",
+    "definition": "to speak"
+  },
+  {
+    "word": "tre",
+    "pos": "numeral",
+    "definition": "three"
+  },
+  {
+    "word": "parte",
+    "pos": "noun",
+    "definition": "part"
+  },
+  {
+    "word": "euro",
+    "pos": "noun",
+    "definition": "euro"
+  },
+  {
+    "word": "casa",
+    "pos": "noun",
+    "definition": "house, home"
+  },
+  {
+    "word": "quello",
+    "pos": "pronoun",
+    "definition": "that"
+  },
+  {
+    "word": "punto",
+    "pos": "noun",
+    "definition": "point"
+  },
+  {
+    "word": "presidente",
+    "pos": "noun",
+    "definition": "president"
+  },
+  {
+    "word": "governo",
+    "pos": "noun",
+    "definition": "government"
+  },
+  {
+    "word": "tornare",
+    "pos": "verb",
+    "definition": "to return"
+  },
+  {
+    "word": "via",
+    "pos": "noun",
+    "definition": "street"
+  },
+  {
+    "word": "restare",
+    "pos": "verb",
+    "definition": "to remain"
+  },
+  {
+    "word": "sembrare",
+    "pos": "verb",
+    "definition": "to seem"
+  },
+  {
+    "word": "secondo",
+    "pos": "adjective",
+    "definition": "second"
+  },
+  {
+    "word": "squadra",
+    "pos": "noun",
+    "definition": "team"
+  },
+  {
+    "word": "caso",
+    "pos": "noun",
+    "definition": "coincidence, instance"
+  },
+  {
+    "word": "vedere",
+    "pos": "verb",
+    "definition": "to see"
+  },
+  {
+    "word": "stesso",
+    "pos": "adjective",
+    "definition": "same"
+  },
+  {
+    "word": "Italia",
+    "pos": "proper noun",
+    "definition": "Italy"
+  },
+  {
+    "word": "quale",
+    "pos": "pronoun",
+    "definition": "which"
+  },
+  {
+    "word": "tanto",
+    "pos": "determiner",
+    "definition": "so much"
+  },
+  {
+    "word": "risultato",
+    "pos": "noun",
+    "definition": "result"
+  },
+  {
+    "word": "mai",
+    "pos": "adverb",
+    "definition": "never"
+  },
+  {
+    "word": "insomma",
+    "pos": "adverb",
+    "definition": "in short"
+  },
+  {
+    "word": "però",
+    "pos": "adverb",
+    "definition": "but"
+  },
+  {
+    "word": "niente",
+    "pos": "pronoun",
+    "definition": "nothing"
+  },
+  {
+    "word": "mercato",
+    "pos": "noun",
+    "definition": "market"
+  },
+  {
+    "word": "comunque",
+    "pos": "adverb",
+    "definition": "anyhow, anyway"
+  },
+  {
+    "word": "continuare",
+    "pos": "verb",
+    "definition": "to continue"
+  },
+  {
+    "word": "situazione",
+    "pos": "noun",
+    "definition": "situation"
+  },
+  {
+    "word": "dunque",
+    "pos": "adverb",
+    "definition": "so, therfore"
+  },
+  {
+    "word": "nostro",
+    "pos": "determiner",
+    "definition": "our"
+  },
+  {
+    "word": "finire",
+    "pos": "verb",
+    "definition": "to finish"
+  },
+  {
+    "word": "diverso",
+    "pos": "adjective",
+    "definition": "different"
+  },
+  {
+    "word": "loro",
+    "pos": "determiner",
+    "definition": "their"
+  },
+  {
+    "word": "vero",
+    "pos": "adjective",
+    "definition": "true"
+  },
+  {
+    "word": "parola",
+    "pos": "noun",
+    "definition": "word"
+  },
+  {
+    "word": "fine",
+    "pos": "noun",
+    "definition": "end"
+  },
+  {
+    "word": "momento",
+    "pos": "noun",
+    "definition": "moment"
+  },
+  {
+    "word": "rimanere",
+    "pos": "verb",
+    "definition": "to stay"
+  },
+  {
+    "word": "forse",
+    "pos": "adverb",
+    "definition": "perhaps"
+  },
+  {
+    "word": "proprio",
+    "pos": "adverb",
+    "definition": "exactly, precisely"
+  },
+  {
+    "word": "buono",
+    "pos": "adjective",
+    "definition": "good"
+  },
+  {
+    "word": "storia",
+    "pos": "noun",
+    "definition": "history"
+  },
+  {
+    "word": "cambiare",
+    "pos": "verb",
+    "definition": "to exchange"
+  },
+  {
+    "word": "partita",
+    "pos": "noun",
+    "definition": "match"
+  },
+  {
+    "word": "calcio",
+    "pos": "noun",
+    "definition": "soccer, kick, calcium"
+  },
+  {
+    "word": "mio",
+    "pos": "pronoun",
+    "definition": "my"
+  },
+  {
+    "word": "riferire",
+    "pos": "verb",
+    "definition": "to report, to tell"
+  },
+  {
+    "word": "chi",
+    "pos": "pronoun",
+    "definition": "who"
+  },
+  {
+    "word": "adesso",
+    "pos": "adverb",
+    "definition": "now"
+  },
+  {
+    "word": "uomo",
+    "pos": "noun",
+    "definition": "man"
+  },
+  {
+    "word": "notizia",
+    "pos": "noun",
+    "definition": "news"
+  },
+  {
+    "word": "persona",
+    "pos": "noun",
+    "definition": "person"
+  },
+  {
+    "word": "annunciare",
+    "pos": "verb",
+    "definition": "to announce"
+  },
+  {
+    "word": "troppo",
+    "pos": "adverb",
+    "definition": "too much"
+  },
+  {
+    "word": "prossimo",
+    "pos": "adjective",
+    "definition": "next"
+  },
+  {
+    "word": "io",
+    "pos": "pronoun",
+    "definition": "I"
+  },
+  {
+    "word": "donna",
+    "pos": "noun",
+    "definition": "woman"
+  },
+  {
+    "word": "dare",
+    "pos": "verb",
+    "definition": "to give"
+  },
+  {
+    "word": "prevedere",
+    "pos": "verb",
+    "definition": "to foresee"
+  },
+  {
+    "word": "città",
+    "pos": "noun",
+    "definition": "city"
+  },
+  {
+    "word": "mondo",
+    "pos": "noun",
+    "definition": "world"
+  },
+  {
+    "word": "posto",
+    "pos": "noun",
+    "definition": "place"
+  },
+  {
+    "word": "futuro",
+    "pos": "noun",
+    "definition": "the future"
+  },
+  {
+    "word": "vita",
+    "pos": "noun",
+    "definition": "life"
+  },
+  {
+    "word": "giovane",
+    "pos": "noun",
+    "definition": "young person"
+  },
+  {
+    "word": "trovare",
+    "pos": "verb",
+    "definition": "to find"
+  },
+  {
+    "word": "vincere",
+    "pos": "verb",
+    "definition": "to win"
+  },
+  {
+    "word": "bello",
+    "pos": "adjective",
+    "definition": "nice"
+  },
+  {
+    "word": "davvero",
+    "pos": "adverb",
+    "definition": "really"
+  },
+  {
+    "word": "ecco",
+    "pos": "adverb",
+    "definition": "here, there"
+  },
+  {
+    "word": "perdere",
+    "pos": "verb",
+    "definition": "to lose"
+  },
+  {
+    "word": "chiedere",
+    "pos": "verb",
+    "definition": "to ask"
+  },
+  {
+    "word": "pubblico",
+    "pos": "adjective",
+    "definition": "public"
+  },
+  {
+    "word": "strada",
+    "pos": "noun",
+    "definition": "street"
+  },
+  {
+    "word": "polizia",
+    "pos": "noun",
+    "definition": "police"
+  },
+  {
+    "word": "domani",
+    "pos": "adverb",
+    "definition": "tomorrow"
+  },
+  {
+    "word": "campo",
+    "pos": "noun",
+    "definition": "field"
+  },
+  {
+    "word": "ultimo",
+    "pos": "adjective",
+    "definition": "last"
+  },
+  {
+    "word": "gruppo",
+    "pos": "noun",
+    "definition": "group"
+  },
+  {
+    "word": "milione",
+    "pos": "numeral",
+    "definition": "million"
+  },
+  {
+    "word": "chiudere",
+    "pos": "verb",
+    "definition": "to close"
+  },
+  {
+    "word": "pensare",
+    "pos": "verb",
+    "definition": "to think"
+  },
+  {
+    "word": "qualche",
+    "pos": "determiner",
+    "definition": "some, a few, any"
+  },
+  {
+    "word": "allora",
+    "pos": "adverb",
+    "definition": "so"
+  },
+  {
+    "word": "gara",
+    "pos": "noun",
+    "definition": "competition"
+  },
+  {
+    "word": "finale",
+    "pos": "noun",
+    "definition": "final"
+  },
+  {
+    "word": "politico",
+    "pos": "adjective",
+    "definition": "political"
+  },
+  {
+    "word": "consiglio",
+    "pos": "noun",
+    "definition": "advice"
+  },
+  {
+    "word": "centro",
+    "pos": "noun",
+    "definition": "center"
+  },
+  {
+    "word": "diventare",
+    "pos": "verb",
+    "definition": "to become"
+  },
+  {
+    "word": "se",
+    "pos": "conjunction",
+    "definition": "if"
+  },
+  {
+    "word": "ogni",
+    "pos": "determiner",
+    "definition": "every"
+  },
+  {
+    "word": "quanto",
+    "pos": "pronoun",
+    "definition": "how much, how many"
+  },
+  {
+    "word": "mese",
+    "pos": "noun",
+    "definition": "month"
+  },
+  {
+    "word": "ieri",
+    "pos": "adverb",
+    "definition": "yesterday"
+  },
+  {
+    "word": "intanto",
+    "pos": "adverb",
+    "definition": "in the meantime"
+  },
+  {
+    "word": "trattare",
+    "pos": "verb",
+    "definition": "to deal with"
+  },
+  {
+    "word": "gol",
+    "pos": "noun",
+    "definition": "goal"
+  },
+  {
+    "word": "noi",
+    "pos": "pronoun",
+    "definition": "we"
+  },
+  {
+    "word": "società",
+    "pos": "noun",
+    "definition": "society"
+  },
+  {
+    "word": "Milano",
+    "pos": "proper noun",
+    "definition": "Milan"
+  },
+  {
+    "word": "passare",
+    "pos": "verb",
+    "definition": "to pass"
+  },
+  {
+    "word": "sotto",
+    "pos": "preposition",
+    "definition": "under"
+  },
+  {
+    "word": "questione",
+    "pos": "noun",
+    "definition": "question"
+  },
+  {
+    "word": "giornata",
+    "pos": "noun",
+    "definition": "day"
+  },
+  {
+    "word": "ministro",
+    "pos": "noun",
+    "definition": "minister"
+  },
+  {
+    "word": "quattro",
+    "pos": "numeral",
+    "definition": "four"
+  },
+  {
+    "word": "prendere",
+    "pos": "verb",
+    "definition": "to take"
+  },
+  {
+    "word": "volta",
+    "pos": "noun",
+    "definition": "time"
+  },
+  {
+    "word": "carabiniere",
+    "pos": "noun",
+    "definition": "carabiniere"
+  },
+  {
+    "word": "gioco",
+    "pos": "noun",
+    "definition": "game"
+  },
+  {
+    "word": "prima",
+    "pos": "adverb",
+    "definition": "before"
+  },
+  {
+    "word": "cominciare",
+    "pos": "verb",
+    "definition": "to start"
+  },
+  {
+    "word": "soprattutto",
+    "pos": "adverb",
+    "definition": "especially, above all"
+  },
+  {
+    "word": "famiglia",
+    "pos": "noun",
+    "definition": "family"
+  },
+  {
+    "word": "progetto",
+    "pos": "noun",
+    "definition": "project"
+  },
+  {
+    "word": "no",
+    "pos": "adverb",
+    "definition": "no"
+  },
+  {
+    "word": "numero",
+    "pos": "noun",
+    "definition": "number"
+  },
+  {
+    "word": "settimana",
+    "pos": "noun",
+    "definition": "week"
+  },
+  {
+    "word": "risposta",
+    "pos": "noun",
+    "definition": "reply"
+  },
+  {
+    "word": "meglio",
+    "pos": "adverb",
+    "definition": "better"
+  },
+  {
+    "word": "scuola",
+    "pos": "noun",
+    "definition": "school"
+  },
+  {
+    "word": "lui",
+    "pos": "pronoun",
+    "definition": "he"
+  },
+  {
+    "word": "importante",
+    "pos": "adjective",
+    "definition": "important"
+  },
+  {
+    "word": "subito",
+    "pos": "adverb",
+    "definition": "immediately"
+  },
+  {
+    "word": "prezzo",
+    "pos": "noun",
+    "definition": "price"
+  },
+  {
+    "word": "difficile",
+    "pos": "adjective",
+    "definition": "hard"
+  },
+  {
+    "word": "nulla",
+    "pos": "pronoun",
+    "definition": "nothing"
+  },
+  {
+    "word": "paese",
+    "pos": "noun",
+    "definition": "country"
+  },
+  {
+    "word": "comune",
+    "pos": "noun",
+    "definition": "city hall, town hall"
+  },
+  {
+    "word": "programma",
+    "pos": "noun",
+    "definition": "program"
+  },
+  {
+    "word": "quasi",
+    "pos": "adverb",
+    "definition": "almost"
+  },
+  {
+    "word": "sapere",
+    "pos": "verb",
+    "definition": "to know"
+  },
+  {
+    "word": "bisognare",
+    "pos": "verb",
+    "definition": "it is necessary to"
+  },
+  {
+    "word": "servizio",
+    "pos": "noun",
+    "definition": "service"
+  },
+  {
+    "word": "dove",
+    "pos": "adverb",
+    "definition": "where"
+  },
+  {
+    "word": "titolo",
+    "pos": "noun",
+    "definition": "title"
+  },
+  {
+    "word": "nome",
+    "pos": "noun",
+    "definition": "name"
+  },
+  {
+    "word": "giocatore",
+    "pos": "noun",
+    "definition": "player"
+  },
+  {
+    "word": "stato",
+    "pos": "noun",
+    "definition": "state"
+  },
+  {
+    "word": "colpo",
+    "pos": "noun",
+    "definition": "blow"
+  },
+  {
+    "word": "sindaco",
+    "pos": "noun",
+    "definition": "mayor"
+  },
+  {
+    "word": "almeno",
+    "pos": "adverb",
+    "definition": "at least"
+  },
+  {
+    "word": "mancare",
+    "pos": "verb",
+    "definition": "to be missing"
+  },
+  {
+    "word": "nazionale",
+    "pos": "adjective",
+    "definition": "national"
+  },
+  {
+    "word": "vittima",
+    "pos": "noun",
+    "definition": "victim"
+  },
+  {
+    "word": "certo",
+    "pos": "adverb",
+    "definition": "of course"
+  },
+  {
+    "word": "europeo",
+    "pos": "adjective",
+    "definition": "European"
+  },
+  {
+    "word": "vittoria",
+    "pos": "noun",
+    "definition": "victory"
+  },
+  {
+    "word": "sicurezza",
+    "pos": "noun",
+    "definition": "safety"
+  },
+  {
+    "word": "fatto",
+    "pos": "noun",
+    "definition": "fact"
+  },
+  {
+    "word": "iniziare",
+    "pos": "verb",
+    "definition": "to begin, to start"
+  },
+  {
+    "word": "alcuno",
+    "pos": "determiner",
+    "definition": "not any, no"
+  },
+  {
+    "word": "dato",
+    "pos": "noun",
+    "definition": "figure, data"
+  },
+  {
+    "word": "domenica",
+    "pos": "noun",
+    "definition": "Sunday"
+  },
+  {
+    "word": "crisi",
+    "pos": "noun",
+    "definition": "crisis"
+  },
+  {
+    "word": "avvenire",
+    "pos": "verb",
+    "definition": "to happen, future"
+  },
+  {
+    "word": "positivo",
+    "pos": "adjective",
+    "definition": "positive"
+  },
+  {
+    "word": "bastare",
+    "pos": "verb",
+    "definition": "to suffice, to be enough"
+  },
+  {
+    "word": "ragazzo",
+    "pos": "noun",
+    "definition": "boy"
+  },
+  {
+    "word": "sito",
+    "pos": "noun",
+    "definition": "site"
+  },
+  {
+    "word": "rischio",
+    "pos": "noun",
+    "definition": "risk"
+  },
+  {
+    "word": "giocare",
+    "pos": "verb",
+    "definition": "to play"
+  },
+  {
+    "word": "stagione",
+    "pos": "noun",
+    "definition": "season"
+  },
+  {
+    "word": "verso",
+    "pos": "preposition",
+    "definition": "toward"
+  },
+  {
+    "word": "lungo",
+    "pos": "adjective",
+    "definition": "long"
+  },
+  {
+    "word": "scelta",
+    "pos": "noun",
+    "definition": "choice"
+  },
+  {
+    "word": "guerra",
+    "pos": "noun",
+    "definition": "war"
+  },
+  {
+    "word": "confermare",
+    "pos": "verb",
+    "definition": "to confirm"
+  },
+  {
+    "word": "condizione",
+    "pos": "noun",
+    "definition": "condition"
+  },
+  {
+    "word": "Napoli",
+    "pos": "proper noun",
+    "definition": "Naples"
+  },
+  {
+    "word": "resto",
+    "pos": "noun",
+    "definition": "rest"
+  },
+  {
+    "word": "rete",
+    "pos": "noun",
+    "definition": "net"
+  },
+  {
+    "word": "morire",
+    "pos": "verb",
+    "definition": "to die"
+  },
+  {
+    "word": "terzo",
+    "pos": "adjective",
+    "definition": "third"
+  },
+  {
+    "word": "sì",
+    "pos": "interjection",
+    "definition": "yes"
+  },
+  {
+    "word": "piazza",
+    "pos": "noun",
+    "definition": "square, plaza"
+  },
+  {
+    "word": "piccolo",
+    "pos": "adjective",
+    "definition": "small"
+  },
+  {
+    "word": "aperto",
+    "pos": "adjective",
+    "definition": "open"
+  },
+  {
+    "word": "decisione",
+    "pos": "noun",
+    "definition": "decision"
+  },
+  {
+    "word": "incontro",
+    "pos": "noun",
+    "definition": "meeting"
+  },
+  {
+    "word": "corso",
+    "pos": "noun",
+    "definition": "course"
+  },
+  {
+    "word": "musica",
+    "pos": "noun",
+    "definition": "music"
+  },
+  {
+    "word": "indagine",
+    "pos": "noun",
+    "definition": "investigation"
+  },
+  {
+    "word": "nota",
+    "pos": "noun",
+    "definition": "note"
+  },
+  {
+    "word": "notte",
+    "pos": "noun",
+    "definition": "night"
+  },
+  {
+    "word": "ferito",
+    "pos": "noun",
+    "definition": "wounded"
+  },
+  {
+    "word": "polemica",
+    "pos": "noun",
+    "definition": "controversy"
+  },
+  {
+    "word": "politica",
+    "pos": "noun",
+    "definition": "politics"
+  },
+  {
+    "word": "sentire",
+    "pos": "verb",
+    "definition": "to feel"
+  },
+  {
+    "word": "voto",
+    "pos": "noun",
+    "definition": "vote, mark"
+  },
+  {
+    "word": "accordo",
+    "pos": "noun",
+    "definition": "agreement"
+  },
+  {
+    "word": "chiaro",
+    "pos": "adjective",
+    "definition": "clear, light"
+  },
+  {
+    "word": "noto",
+    "pos": "adjective",
+    "definition": "well-known"
+  },
+  {
+    "word": "aspettare",
+    "pos": "verb",
+    "definition": "to wait"
+  },
+  {
+    "word": "tecnico",
+    "pos": "adjective",
+    "definition": "technical"
+  },
+  {
+    "word": "decidere",
+    "pos": "verb",
+    "definition": "to decide"
+  },
+  {
+    "word": "pronto",
+    "pos": "adjective",
+    "definition": "ready"
+  },
+  {
+    "word": "infine",
+    "pos": "adverb",
+    "definition": "in the end"
+  },
+  {
+    "word": "bambino",
+    "pos": "noun",
+    "definition": "baby"
+  },
+  {
+    "word": "legge",
+    "pos": "noun",
+    "definition": "law"
+  },
+  {
+    "word": "ormai",
+    "pos": "adverb",
+    "definition": "at this point"
+  },
+  {
+    "word": "lasciare",
+    "pos": "verb",
+    "definition": "to leave"
+  },
+  {
+    "word": "ripresa",
+    "pos": "noun",
+    "definition": "recovery, shooting"
+  },
+  {
+    "word": "forza",
+    "pos": "noun",
+    "definition": "force"
+  },
+  {
+    "word": "piano",
+    "pos": "noun",
+    "definition": "plan"
+  },
+  {
+    "word": "banca",
+    "pos": "noun",
+    "definition": "bank"
+  },
+  {
+    "word": "cinque",
+    "pos": "numeral",
+    "definition": "five"
+  },
+  {
+    "word": "circa",
+    "pos": "adverb",
+    "definition": "approximately"
+  },
+  {
+    "word": "sperare",
+    "pos": "verb",
+    "definition": "to hope"
+  },
+  {
+    "word": "partire",
+    "pos": "verb",
+    "definition": "to leave"
+  },
+  {
+    "word": "nascere",
+    "pos": "verb",
+    "definition": "to be born"
+  },
+  {
+    "word": "aprire",
+    "pos": "verb",
+    "definition": "to open"
+  },
+  {
+    "word": "paura",
+    "pos": "noun",
+    "definition": "fear"
+  },
+  {
+    "word": "fuori",
+    "pos": "adverb",
+    "definition": "out"
+  },
+  {
+    "word": "regione",
+    "pos": "noun",
+    "definition": "region"
+  },
+  {
+    "word": "miliardo",
+    "pos": "numeral",
+    "definition": "billion"
+  },
+  {
+    "word": "attendere",
+    "pos": "verb",
+    "definition": "to wait for"
+  },
+  {
+    "word": "partito",
+    "pos": "noun",
+    "definition": "party"
+  },
+  {
+    "word": "incidente",
+    "pos": "noun",
+    "definition": "incident, accident"
+  },
+  {
+    "word": "sei",
+    "pos": "numeral",
+    "definition": "six"
+  },
+  {
+    "word": "avanti",
+    "pos": "adverb",
+    "definition": "forward"
+  },
+  {
+    "word": "prova",
+    "pos": "noun",
+    "definition": "trial"
+  },
+  {
+    "word": "chiamare",
+    "pos": "verb",
+    "definition": "to call"
+  },
+  {
+    "word": "tifoso",
+    "pos": "noun",
+    "definition": "fan"
+  },
+  {
+    "word": "lei",
+    "pos": "pronoun",
+    "definition": "she"
+  },
+  {
+    "word": "figlio",
+    "pos": "noun",
+    "definition": "son"
+  },
+  {
+    "word": "campionato",
+    "pos": "noun",
+    "definition": "championship"
+  },
+  {
+    "word": "allenatore",
+    "pos": "noun",
+    "definition": "trainer"
+  },
+  {
+    "word": "festa",
+    "pos": "noun",
+    "definition": "party"
+  },
+  {
+    "word": "serata",
+    "pos": "noun",
+    "definition": "evening"
+  },
+  {
+    "word": "forte",
+    "pos": "adjective",
+    "definition": "strong"
+  },
+  {
+    "word": "presentare",
+    "pos": "verb",
+    "definition": "to present"
+  },
+  {
+    "word": "meno",
+    "pos": "adverb",
+    "definition": "less"
+  },
+  {
+    "word": "migliore",
+    "pos": "adjective",
+    "definition": "better"
+  },
+  {
+    "word": "mano",
+    "pos": "noun",
+    "definition": "hand"
+  },
+  {
+    "word": "giugno",
+    "pos": "noun",
+    "definition": "June"
+  },
+  {
+    "word": "novità",
+    "pos": "noun",
+    "definition": "news"
+  },
+  {
+    "word": "locale",
+    "pos": "adjective",
+    "definition": "local"
+  },
+  {
+    "word": "esistere",
+    "pos": "verb",
+    "definition": "to exist"
+  },
+  {
+    "word": "operazione",
+    "pos": "noun",
+    "definition": "operation"
+  },
+  {
+    "word": "servire",
+    "pos": "verb",
+    "definition": "to serve"
+  },
+  {
+    "word": "lavorare",
+    "pos": "verb",
+    "definition": "to work"
+  },
+  {
+    "word": "attacco",
+    "pos": "noun",
+    "definition": "attack"
+  },
+  {
+    "word": "possibile",
+    "pos": "adjective",
+    "definition": "possible"
+  },
+  {
+    "word": "mezzo",
+    "pos": "noun",
+    "definition": "half"
+  },
+  {
+    "word": "piacere",
+    "pos": "verb",
+    "definition": "to like"
+  },
+  {
+    "word": "settembre",
+    "pos": "noun",
+    "definition": "September"
+  },
+  {
+    "word": "libero",
+    "pos": "adjective",
+    "definition": "free"
+  },
+  {
+    "word": "informazione",
+    "pos": "noun",
+    "definition": "information"
+  },
+  {
+    "word": "sfida",
+    "pos": "noun",
+    "definition": "challenge"
+  },
+  {
+    "word": "dubbio",
+    "pos": "noun",
+    "definition": "doubt"
+  },
+  {
+    "word": "processo",
+    "pos": "noun",
+    "definition": "process"
+  },
+  {
+    "word": "morto",
+    "pos": "noun",
+    "definition": "deceased"
+  },
+  {
+    "word": "rendere",
+    "pos": "verb",
+    "definition": "to give back"
+  },
+  {
+    "word": "minuto",
+    "pos": "noun",
+    "definition": "minute"
+  },
+  {
+    "word": "obiettivo",
+    "pos": "noun",
+    "definition": "objective"
+  },
+  {
+    "word": "esempio",
+    "pos": "noun",
+    "definition": "example"
+  },
+  {
+    "word": "calo",
+    "pos": "noun",
+    "definition": "decrease, drop"
+  },
+  {
+    "word": "motivo",
+    "pos": "noun",
+    "definition": "reason"
+  },
+  {
+    "word": "male",
+    "pos": "adverb",
+    "definition": "badly"
+  },
+  {
+    "word": "li",
+    "pos": "pronoun",
+    "definition": "them"
+  },
+  {
+    "word": "rapporto",
+    "pos": "noun",
+    "definition": "report"
+  },
+  {
+    "word": "difesa",
+    "pos": "noun",
+    "definition": "defence"
+  },
+  {
+    "word": "protesta",
+    "pos": "noun",
+    "definition": "protest"
+  },
+  {
+    "word": "spettacolo",
+    "pos": "noun",
+    "definition": "show"
+  },
+  {
+    "word": "danno",
+    "pos": "noun",
+    "definition": "damage"
+  },
+  {
+    "word": "auto",
+    "pos": "noun",
+    "definition": "car"
+  },
+  {
+    "word": "posizione",
+    "pos": "noun",
+    "definition": "position"
+  },
+  {
+    "word": "film",
+    "pos": "noun",
+    "definition": "movie"
+  },
+  {
+    "word": "mettere",
+    "pos": "verb",
+    "definition": "to put"
+  },
+  {
+    "word": "fonte",
+    "pos": "noun",
+    "definition": "source"
+  },
+  {
+    "word": "oltre",
+    "pos": "adverb",
+    "definition": "beyond"
+  },
+  {
+    "word": "ovviamente",
+    "pos": "adverb",
+    "definition": "obviously"
+  },
+  {
+    "word": "provincia",
+    "pos": "noun",
+    "definition": "province"
+  },
+  {
+    "word": "domanda",
+    "pos": "noun",
+    "definition": "question"
+  },
+  {
+    "word": "intervento",
+    "pos": "noun",
+    "definition": "intervention"
+  },
+  {
+    "word": "conto",
+    "pos": "noun",
+    "definition": "bill"
+  },
+  {
+    "word": "quando",
+    "pos": "conjunction",
+    "definition": "when"
+  },
+  {
+    "word": "maggio",
+    "pos": "noun",
+    "definition": "May"
+  },
+  {
+    "word": "causa",
+    "pos": "noun",
+    "definition": "cause"
+  },
+  {
+    "word": "testa",
+    "pos": "noun",
+    "definition": "head"
+  },
+  {
+    "word": "controllo",
+    "pos": "noun",
+    "definition": "check"
+  },
+  {
+    "word": "ragione",
+    "pos": "noun",
+    "definition": "reason"
+  },
+  {
+    "word": "entrare",
+    "pos": "verb",
+    "definition": "to enter"
+  },
+  {
+    "word": "vicenda",
+    "pos": "noun",
+    "definition": "event"
+  },
+  {
+    "word": "ufficiale",
+    "pos": "adjective",
+    "definition": "official"
+  },
+  {
+    "word": "ricerca",
+    "pos": "noun",
+    "definition": "search, research"
+  },
+  {
+    "word": "giusto",
+    "pos": "adjective",
+    "definition": "right"
+  },
+  {
+    "word": "cittadino",
+    "pos": "noun",
+    "definition": "citizen"
+  },
+  {
+    "word": "sinistra",
+    "pos": "noun",
+    "definition": "left"
+  },
+  {
+    "word": "vi",
+    "pos": "pronoun",
+    "definition": "you"
+  },
+  {
+    "word": "conoscere",
+    "pos": "verb",
+    "definition": "to know"
+  },
+  {
+    "word": "grave",
+    "pos": "adjective",
+    "definition": "serious"
+  },
+  {
+    "word": "bilancio",
+    "pos": "noun",
+    "definition": "balance"
+  },
+  {
+    "word": "anzi",
+    "pos": "conjunction",
+    "definition": "actually, rather"
+  },
+  {
+    "word": "fino",
+    "pos": "preposition",
+    "definition": "until"
+  },
+  {
+    "word": "unico",
+    "pos": "adjective",
+    "definition": "unique"
+  },
+  {
+    "word": "gente",
+    "pos": "noun",
+    "definition": "people"
+  },
+  {
+    "word": "cercare",
+    "pos": "verb",
+    "definition": "to look for, to seek"
+  },
+  {
+    "word": "appuntamento",
+    "pos": "noun",
+    "definition": "appointment"
+  },
+  {
+    "word": "alto",
+    "pos": "adjective",
+    "definition": "tall"
+  },
+  {
+    "word": "portare",
+    "pos": "verb",
+    "definition": "to bring"
+  },
+  {
+    "word": "contratto",
+    "pos": "noun",
+    "definition": "contract"
+  },
+  {
+    "word": "ritorno",
+    "pos": "noun",
+    "definition": "return"
+  },
+  {
+    "word": "credere",
+    "pos": "verb",
+    "definition": "to believe"
+  },
+  {
+    "word": "azione",
+    "pos": "noun",
+    "definition": "action"
+  },
+  {
+    "word": "fuoco",
+    "pos": "noun",
+    "definition": "fire"
+  },
+  {
+    "word": "sindacato",
+    "pos": "noun",
+    "definition": "trade union"
+  },
+  {
+    "word": "fondo",
+    "pos": "noun",
+    "definition": "bottom"
+  },
+  {
+    "word": "particolare",
+    "pos": "noun",
+    "definition": "particular"
+  },
+  {
+    "word": "maggiore",
+    "pos": "adjective",
+    "definition": "greater"
+  },
+  {
+    "word": "costo",
+    "pos": "noun",
+    "definition": "cost"
+  },
+  {
+    "word": "carcere",
+    "pos": "noun",
+    "definition": "prison"
+  },
+  {
+    "word": "passo",
+    "pos": "noun",
+    "definition": "step"
+  },
+  {
+    "word": "soluzione",
+    "pos": "noun",
+    "definition": "solution"
+  },
+  {
+    "word": "attesa",
+    "pos": "noun",
+    "definition": "wait"
+  },
+  {
+    "word": "pieno",
+    "pos": "adjective",
+    "definition": "full"
+  },
+  {
+    "word": "sabato",
+    "pos": "noun",
+    "definition": "Saturday"
+  },
+  {
+    "word": "allarme",
+    "pos": "noun",
+    "definition": "alarm"
+  },
+  {
+    "word": "semplice",
+    "pos": "adjective",
+    "definition": "simple"
+  },
+  {
+    "word": "riuscire",
+    "pos": "verb",
+    "definition": "to be able to"
+  },
+  {
+    "word": "principale",
+    "pos": "adjective",
+    "definition": "principal"
+  },
+  {
+    "word": "reazione",
+    "pos": "noun",
+    "definition": "reaction"
+  },
+  {
+    "word": "linea",
+    "pos": "noun",
+    "definition": "line"
+  },
+  {
+    "word": "fiducia",
+    "pos": "noun",
+    "definition": "trust"
+  },
+  {
+    "word": "sogno",
+    "pos": "noun",
+    "definition": "dream"
+  },
+  {
+    "word": "massimo",
+    "pos": "adjective",
+    "definition": "maximum"
+  },
+  {
+    "word": "affermare",
+    "pos": "verb",
+    "definition": "to assert"
+  },
+  {
+    "word": "pomeriggio",
+    "pos": "noun",
+    "definition": "afternoon"
+  },
+  {
+    "word": "idea",
+    "pos": "noun",
+    "definition": "idea"
+  },
+  {
+    "word": "zona",
+    "pos": "noun",
+    "definition": "area"
+  },
+  {
+    "word": "ministero",
+    "pos": "noun",
+    "definition": "ministry"
+  },
+  {
+    "word": "amico",
+    "pos": "noun",
+    "definition": "friend"
+  },
+  {
+    "word": "crescita",
+    "pos": "noun",
+    "definition": "growth"
+  },
+  {
+    "word": "scrivere",
+    "pos": "verb",
+    "definition": "to write"
+  },
+  {
+    "word": "scontro",
+    "pos": "noun",
+    "definition": "clash, crash"
+  },
+  {
+    "word": "soldi",
+    "pos": "noun",
+    "definition": "money"
+  },
+  {
+    "word": "giudizio",
+    "pos": "noun",
+    "definition": "judgment"
+  },
+  {
+    "word": "settore",
+    "pos": "noun",
+    "definition": "sector"
+  },
+  {
+    "word": "dollaro",
+    "pos": "noun",
+    "definition": "dollar"
+  },
+  {
+    "word": "sorpresa",
+    "pos": "noun",
+    "definition": "surprise"
+  },
+  {
+    "word": "luglio",
+    "pos": "noun",
+    "definition": "July"
+  },
+  {
+    "word": "diritto",
+    "pos": "noun",
+    "definition": "the right side"
+  },
+  {
+    "word": "episodio",
+    "pos": "noun",
+    "definition": "episode"
+  },
+  {
+    "word": "fermare",
+    "pos": "verb",
+    "definition": "to stop"
+  },
+  {
+    "word": "duro",
+    "pos": "adjective",
+    "definition": "hard"
+  },
+  {
+    "word": "sistema",
+    "pos": "noun",
+    "definition": "system"
+  },
+  {
+    "word": "gennaio",
+    "pos": "noun",
+    "definition": "January"
+  },
+  {
+    "word": "riportare",
+    "pos": "verb",
+    "definition": "report, bring back"
+  },
+  {
+    "word": "quarto",
+    "pos": "adjective",
+    "definition": "fourth"
+  },
+  {
+    "word": "inoltre",
+    "pos": "adverb",
+    "definition": "furthermore"
+  },
+  {
+    "word": "azzurro",
+    "pos": "adjective",
+    "definition": "light blue"
+  },
+  {
+    "word": "rispondere",
+    "pos": "verb",
+    "definition": "to answer"
+  },
+  {
+    "word": "la",
+    "pos": "pronoun",
+    "definition": "her, it"
+  },
+  {
+    "word": "inizio",
+    "pos": "noun",
+    "definition": "start"
+  },
+  {
+    "word": "stampa",
+    "pos": "noun",
+    "definition": "press"
+  },
+  {
+    "word": "rosso",
+    "pos": "adjective",
+    "definition": "red"
+  },
+  {
+    "word": "entro",
+    "pos": "preposition",
+    "definition": "by, within"
+  },
+  {
+    "word": "morte",
+    "pos": "noun",
+    "definition": "death"
+  },
+  {
+    "word": "proposta",
+    "pos": "noun",
+    "definition": "proposal"
+  },
+  {
+    "word": "maggioranza",
+    "pos": "noun",
+    "definition": "majority"
+  },
+  {
+    "word": "ospedale",
+    "pos": "noun",
+    "definition": "hospital"
+  },
+  {
+    "word": "ottobre",
+    "pos": "noun",
+    "definition": "October"
+  },
+  {
+    "word": "discorso",
+    "pos": "noun",
+    "definition": "speech"
+  },
+  {
+    "word": "realtà",
+    "pos": "noun",
+    "definition": "reality"
+  },
+  {
+    "word": "vendita",
+    "pos": "noun",
+    "definition": "sale"
+  },
+  {
+    "word": "scena",
+    "pos": "noun",
+    "definition": "scene"
+  },
+  {
+    "word": "rialzo",
+    "pos": "noun",
+    "definition": "rise"
+  },
+  {
+    "word": "arbitro",
+    "pos": "noun",
+    "definition": "referee"
+  },
+  {
+    "word": "seguire",
+    "pos": "verb",
+    "definition": "to follow"
+  },
+  {
+    "word": "valore",
+    "pos": "noun",
+    "definition": "value"
+  },
+  {
+    "word": "commissione",
+    "pos": "noun",
+    "definition": "commission"
+  },
+  {
+    "word": "uscire",
+    "pos": "verb",
+    "definition": "to go out"
+  },
+  {
+    "word": "grazie",
+    "pos": "noun",
+    "definition": "thank you"
+  },
+  {
+    "word": "infatti",
+    "pos": "adverb",
+    "definition": "indeed"
+  },
+  {
+    "word": "modo",
+    "pos": "noun",
+    "definition": "way"
+  },
+  {
+    "word": "crescere",
+    "pos": "verb",
+    "definition": "to grow"
+  },
+  {
+    "word": "accadere",
+    "pos": "verb",
+    "definition": "to happen"
+  },
+  {
+    "word": "scattare",
+    "pos": "verb",
+    "definition": "shoot, take a picture"
+  },
+  {
+    "word": "aprile",
+    "pos": "noun",
+    "definition": "April"
+  },
+  {
+    "word": "amore",
+    "pos": "noun",
+    "definition": "love"
+  },
+  {
+    "word": "commento",
+    "pos": "noun",
+    "definition": "comment"
+  },
+  {
+    "word": "indagare",
+    "pos": "verb",
+    "definition": "to investigate"
+  },
+  {
+    "word": "arrivo",
+    "pos": "noun",
+    "definition": "arrival"
+  },
+  {
+    "word": "panchina",
+    "pos": "noun",
+    "definition": "bench"
+  },
+  {
+    "word": "vicino",
+    "pos": "adjective",
+    "definition": "near"
+  },
+  {
+    "word": "medico",
+    "pos": "noun",
+    "definition": "doctor"
+  },
+  {
+    "word": "economico",
+    "pos": "adjective",
+    "definition": "economic"
+  },
+  {
+    "word": "marzo",
+    "pos": "noun",
+    "definition": "March"
+  },
+  {
+    "word": "senso",
+    "pos": "noun",
+    "definition": "sense"
+  },
+  {
+    "word": "manifestazione",
+    "pos": "noun",
+    "definition": "expression, demonstration"
+  },
+  {
+    "word": "immagine",
+    "pos": "noun",
+    "definition": "image"
+  },
+  {
+    "word": "serie",
+    "pos": "noun",
+    "definition": "series"
+  },
+  {
+    "word": "pure",
+    "pos": "adverb",
+    "definition": "also"
+  },
+  {
+    "word": "confronto",
+    "pos": "noun",
+    "definition": "comparison"
+  },
+  {
+    "word": "scegliere",
+    "pos": "verb",
+    "definition": "to choose"
+  },
+  {
+    "word": "fronte",
+    "pos": "noun",
+    "definition": "forehead"
+  },
+  {
+    "word": "segno",
+    "pos": "noun",
+    "definition": "sign"
+  },
+  {
+    "word": "fra",
+    "pos": "preposition",
+    "definition": "between"
+  },
+  {
+    "word": "chiusura",
+    "pos": "noun",
+    "definition": "closure"
+  },
+  {
+    "word": "interno",
+    "pos": "noun",
+    "definition": "inside, interior"
+  },
+  {
+    "word": "corsa",
+    "pos": "noun",
+    "definition": "race"
+  },
+  {
+    "word": "americano",
+    "pos": "adjective",
+    "definition": "American"
+  },
+  {
+    "word": "arresto",
+    "pos": "noun",
+    "definition": "arrest"
+  },
+  {
+    "word": "classifica",
+    "pos": "noun",
+    "definition": "rank, chart"
+  },
+  {
+    "word": "registrare",
+    "pos": "verb",
+    "definition": "to record, to register"
+  },
+  {
+    "word": "arrestare",
+    "pos": "verb",
+    "definition": "to stop"
+  },
+  {
+    "word": "comunicare",
+    "pos": "verb",
+    "definition": "to communicate"
+  },
+  {
+    "word": "fase",
+    "pos": "noun",
+    "definition": "phase"
+  },
+  {
+    "word": "cambio",
+    "pos": "noun",
+    "definition": "exchange"
+  },
+  {
+    "word": "richiesta",
+    "pos": "noun",
+    "definition": "request"
+  },
+  {
+    "word": "chiesa",
+    "pos": "noun",
+    "definition": "church"
+  },
+  {
+    "word": "generale",
+    "pos": "adjective",
+    "definition": "general"
+  },
+  {
+    "word": "facile",
+    "pos": "adjective",
+    "definition": "easy"
+  },
+  {
+    "word": "intervenire",
+    "pos": "verb",
+    "definition": "to intervene"
+  },
+  {
+    "word": "riguardare",
+    "pos": "verb",
+    "definition": "review, take care of yourself"
+  },
+  {
+    "word": "occhio",
+    "pos": "noun",
+    "definition": "eye"
+  },
+  {
+    "word": "regola",
+    "pos": "noun",
+    "definition": "rule"
+  },
+  {
+    "word": "formazione",
+    "pos": "noun",
+    "definition": "education, development"
+  },
+  {
+    "word": "elettorale",
+    "pos": "adjective",
+    "definition": "electoral"
+  },
+  {
+    "word": "presto",
+    "pos": "adverb",
+    "definition": "soon"
+  },
+  {
+    "word": "ruolo",
+    "pos": "noun",
+    "definition": "role"
+  },
+  {
+    "word": "corpo",
+    "pos": "noun",
+    "definition": "body"
+  },
+  {
+    "word": "cuore",
+    "pos": "noun",
+    "definition": "heart"
+  },
+  {
+    "word": "ordine",
+    "pos": "noun",
+    "definition": "order"
+  },
+  {
+    "word": "nero",
+    "pos": "adjective",
+    "definition": "black"
+  },
+  {
+    "word": "atto",
+    "pos": "noun",
+    "definition": "act"
+  },
+  {
+    "word": "dicembre",
+    "pos": "noun",
+    "definition": "December"
+  },
+  {
+    "word": "giro",
+    "pos": "noun",
+    "definition": "turn, stroll"
+  },
+  {
+    "word": "libro",
+    "pos": "noun",
+    "definition": "book"
+  },
+  {
+    "word": "piede",
+    "pos": "noun",
+    "definition": "foot"
+  },
+  {
+    "word": "durare",
+    "pos": "verb",
+    "definition": "to last"
+  },
+  {
+    "word": "dettaglio",
+    "pos": "noun",
+    "definition": "detail"
+  },
+  {
+    "word": "violenza",
+    "pos": "noun",
+    "definition": "violence"
+  },
+  {
+    "word": "termine",
+    "pos": "noun",
+    "definition": "end"
+  },
+  {
+    "word": "traffico",
+    "pos": "noun",
+    "definition": "traffic"
+  },
+  {
+    "word": "studio",
+    "pos": "noun",
+    "definition": "study"
+  },
+  {
+    "word": "bisogno",
+    "pos": "noun",
+    "definition": "need"
+  },
+  {
+    "word": "accusa",
+    "pos": "noun",
+    "definition": "accusation"
+  },
+  {
+    "word": "partenza",
+    "pos": "noun",
+    "definition": "departure"
+  },
+  {
+    "word": "errore",
+    "pos": "noun",
+    "definition": "mistake"
+  },
+  {
+    "word": "proseguire",
+    "pos": "verb",
+    "definition": "to continue"
+  },
+  {
+    "word": "agosto",
+    "pos": "noun",
+    "definition": "August"
+  },
+  {
+    "word": "vivere",
+    "pos": "verb",
+    "definition": "to live"
+  },
+  {
+    "word": "voce",
+    "pos": "noun",
+    "definition": "voice"
+  },
+  {
+    "word": "scorso",
+    "pos": "adjective",
+    "definition": "last"
+  },
+  {
+    "word": "pagina",
+    "pos": "noun",
+    "definition": "page"
+  },
+  {
+    "word": "sera",
+    "pos": "noun",
+    "definition": "evening"
+  },
+  {
+    "word": "guardare",
+    "pos": "verb",
+    "definition": "to watch"
+  },
+  {
+    "word": "contrario",
+    "pos": "noun",
+    "definition": "contrary"
+  },
+  {
+    "word": "tema",
+    "pos": "noun",
+    "definition": "theme"
+  },
+  {
+    "word": "febbraio",
+    "pos": "noun",
+    "definition": "February"
+  },
+  {
+    "word": "spesso",
+    "pos": "adverb",
+    "definition": "often"
+  },
+  {
+    "word": "Europa",
+    "pos": "proper noun",
+    "definition": "Europe"
+  },
+  {
+    "word": "denuncia",
+    "pos": "noun",
+    "definition": "complaint"
+  },
+  {
+    "word": "spazio",
+    "pos": "noun",
+    "definition": "space"
+  },
+  {
+    "word": "porta",
+    "pos": "noun",
+    "definition": "door"
+  },
+  {
+    "word": "impresa",
+    "pos": "noun",
+    "definition": "enterprise, endeavour"
+  },
+  {
+    "word": "verità",
+    "pos": "noun",
+    "definition": "truth"
+  },
+  {
+    "word": "stop",
+    "pos": "noun",
+    "definition": "stop"
+  },
+  {
+    "word": "naturalmente",
+    "pos": "adverb",
+    "definition": "naturally"
+  },
+  {
+    "word": "presente",
+    "pos": "adjective",
+    "definition": "present"
+  },
+  {
+    "word": "livello",
+    "pos": "noun",
+    "definition": "level"
+  },
+  {
+    "word": "sentenza",
+    "pos": "noun",
+    "definition": "verdict, judgment"
+  },
+  {
+    "word": "colore",
+    "pos": "noun",
+    "definition": "color"
+  },
+  {
+    "word": "iniziativa",
+    "pos": "noun",
+    "definition": "initiative"
+  },
+  {
+    "word": "base",
+    "pos": "noun",
+    "definition": "base, fundamentals"
+  },
+  {
+    "word": "civile",
+    "pos": "adjective",
+    "definition": "civil"
+  },
+  {
+    "word": "dieci",
+    "pos": "numeral",
+    "definition": "ten"
+  },
+  {
+    "word": "cinema",
+    "pos": "noun",
+    "definition": "cinema"
+  },
+  {
+    "word": "regionale",
+    "pos": "adjective",
+    "definition": "regional"
+  },
+  {
+    "word": "elezione",
+    "pos": "noun",
+    "definition": "election"
+  },
+  {
+    "word": "riprendere",
+    "pos": "verb",
+    "definition": "get back, resume"
+  },
+  {
+    "word": "salire",
+    "pos": "verb",
+    "definition": "to go up"
+  },
+  {
+    "word": "storico",
+    "pos": "adjective",
+    "definition": "historical"
+  },
+  {
+    "word": "sport",
+    "pos": "noun",
+    "definition": "sport"
+  },
+  {
+    "word": "vertice",
+    "pos": "noun",
+    "definition": "vertex, summit"
+  },
+  {
+    "word": "silenzio",
+    "pos": "noun",
+    "definition": "silence"
+  },
+  {
+    "word": "viaggio",
+    "pos": "noun",
+    "definition": "voyage"
+  },
+  {
+    "word": "ti",
+    "pos": "pronoun",
+    "definition": "you"
+  },
+  {
+    "word": "aumento",
+    "pos": "noun",
+    "definition": "increase"
+  },
+  {
+    "word": "campione",
+    "pos": "noun",
+    "definition": "champion"
+  },
+  {
+    "word": "rischiare",
+    "pos": "verb",
+    "definition": "to risk"
+  },
+  {
+    "word": "analista",
+    "pos": "noun",
+    "definition": "analyst"
+  },
+  {
+    "word": "entrambi",
+    "pos": "pronoun",
+    "definition": "both"
+  },
+  {
+    "word": "coppia",
+    "pos": "noun",
+    "definition": "couple"
+  },
+  {
+    "word": "negativo",
+    "pos": "adjective",
+    "definition": "negative"
+  },
+  {
+    "word": "aumentare",
+    "pos": "verb",
+    "definition": "to increase"
+  },
+  {
+    "word": "giornalista",
+    "pos": "noun",
+    "definition": "journalist"
+  },
+  {
+    "word": "inchiesta",
+    "pos": "noun",
+    "definition": "investigation"
+  },
+  {
+    "word": "provare",
+    "pos": "verb",
+    "definition": "to try"
+  },
+  {
+    "word": "insieme",
+    "pos": "adverb",
+    "definition": "together"
+  },
+  {
+    "word": "sicuramente",
+    "pos": "adverb",
+    "definition": "surely"
+  },
+  {
+    "word": "vista",
+    "pos": "noun",
+    "definition": "view"
+  },
+  {
+    "word": "novembre",
+    "pos": "noun",
+    "definition": "November"
+  },
+  {
+    "word": "puntare",
+    "pos": "verb",
+    "definition": "head towards, aim for"
+  },
+  {
+    "word": "denunciare",
+    "pos": "verb",
+    "definition": "to report"
+  },
+  {
+    "word": "personale",
+    "pos": "adjective",
+    "definition": "personal"
+  },
+  {
+    "word": "sette",
+    "pos": "numeral",
+    "definition": "seven"
+  },
+  {
+    "word": "sviluppo",
+    "pos": "noun",
+    "definition": "development"
+  },
+  {
+    "word": "soltanto",
+    "pos": "adverb",
+    "definition": "only"
+  },
+  {
+    "word": "pace",
+    "pos": "noun",
+    "definition": "peace"
+  },
+  {
+    "word": "versione",
+    "pos": "noun",
+    "definition": "version"
+  },
+  {
+    "word": "foto",
+    "pos": "noun",
+    "definition": "photo"
+  },
+  {
+    "word": "contare",
+    "pos": "verb",
+    "definition": "to count"
+  },
+  {
+    "word": "colpa",
+    "pos": "noun",
+    "definition": "fault"
+  },
+  {
+    "word": "lì",
+    "pos": "adverb",
+    "definition": "there"
+  },
+  {
+    "word": "concerto",
+    "pos": "noun",
+    "definition": "concert"
+  },
+  {
+    "word": "chiuso",
+    "pos": "adjective",
+    "definition": "closed"
+  },
+  {
+    "word": "premio",
+    "pos": "noun",
+    "definition": "prize"
+  },
+  {
+    "word": "leader",
+    "pos": "noun",
+    "definition": "leader"
+  },
+  {
+    "word": "ottimo",
+    "pos": "adjective",
+    "definition": "very good, great"
+  },
+  {
+    "word": "totale",
+    "pos": "adjective",
+    "definition": "total"
+  },
+  {
+    "word": "me",
+    "pos": "pronoun",
+    "definition": "me"
+  },
+  {
+    "word": "rispetto",
+    "pos": "noun",
+    "definition": "respect"
+  },
+  {
+    "word": "Milan",
+    "pos": "proper noun",
+    "definition": "Milan"
+  },
+  {
+    "word": "riforma",
+    "pos": "noun",
+    "definition": "reform"
+  },
+  {
+    "word": "tensione",
+    "pos": "noun",
+    "definition": "tension"
+  },
+  {
+    "word": "purtroppo",
+    "pos": "adverb",
+    "definition": "unfortunately"
+  },
+  {
+    "word": "gratuito",
+    "pos": "adjective",
+    "definition": "free"
+  },
+  {
+    "word": "capire",
+    "pos": "verb",
+    "definition": "to understand"
+  },
+  {
+    "word": "breve",
+    "pos": "adjective",
+    "definition": "short"
+  },
+  {
+    "word": "acqua",
+    "pos": "noun",
+    "definition": "water"
+  },
+  {
+    "word": "funzionare",
+    "pos": "verb",
+    "definition": "to work"
+  },
+  {
+    "word": "rigore",
+    "pos": "noun",
+    "definition": "rigor, strictness"
+  },
+  {
+    "word": "tuttavia",
+    "pos": "conjunction",
+    "definition": "but, however"
+  },
+  {
+    "word": "cultura",
+    "pos": "noun",
+    "definition": "culture"
+  },
+  {
+    "word": "derby",
+    "pos": "noun",
+    "definition": "derby"
+  },
+  {
+    "word": "occasione",
+    "pos": "noun",
+    "definition": "occasion"
+  },
+  {
+    "word": "video",
+    "pos": "noun",
+    "definition": "video"
+  },
+  {
+    "word": "attenzione",
+    "pos": "noun",
+    "definition": "attention"
+  },
+  {
+    "word": "record",
+    "pos": "noun",
+    "definition": "record"
+  },
+  {
+    "word": "spesa",
+    "pos": "noun",
+    "definition": "expense"
+  },
+  {
+    "word": "capo",
+    "pos": "noun",
+    "definition": "head"
+  },
+  {
+    "word": "protagonista",
+    "pos": "noun",
+    "definition": "main character"
+  },
+  {
+    "word": "giallo",
+    "pos": "noun",
+    "definition": "yellow"
+  },
+  {
+    "word": "battaglia",
+    "pos": "noun",
+    "definition": "battle"
+  },
+  {
+    "word": "lista",
+    "pos": "noun",
+    "definition": "list"
+  },
+  {
+    "word": "apparire",
+    "pos": "verb",
+    "definition": "to appear"
+  },
+  {
+    "word": "testo",
+    "pos": "noun",
+    "definition": "text"
+  },
+  {
+    "word": "segnale",
+    "pos": "noun",
+    "definition": "signal"
+  },
+  {
+    "word": "leggere",
+    "pos": "verb",
+    "definition": "to read"
+  },
+  {
+    "word": "doppio",
+    "pos": "adjective",
+    "definition": "double"
+  },
+  {
+    "word": "quotidiano",
+    "pos": "noun",
+    "definition": "daily"
+  },
+  {
+    "word": "giudice",
+    "pos": "noun",
+    "definition": "judge"
+  },
+  {
+    "word": "durante",
+    "pos": "preposition",
+    "definition": "during"
+  },
+  {
+    "word": "territorio",
+    "pos": "noun",
+    "definition": "territory"
+  },
+  {
+    "word": "passato",
+    "pos": "noun",
+    "definition": "past"
+  },
+  {
+    "word": "tedesco",
+    "pos": "adjective",
+    "definition": "German"
+  },
+  {
+    "word": "pagare",
+    "pos": "verb",
+    "definition": "to pay"
+  },
+  {
+    "word": "vecchio",
+    "pos": "adjective",
+    "definition": "old"
+  },
+  {
+    "word": "direttore",
+    "pos": "noun",
+    "definition": "director"
+  },
+  {
+    "word": "teatro",
+    "pos": "noun",
+    "definition": "theater"
+  },
+  {
+    "word": "agente",
+    "pos": "noun",
+    "definition": "agent"
+  },
+  {
+    "word": "differenza",
+    "pos": "noun",
+    "definition": "difference"
+  },
+  {
+    "word": "internazionale",
+    "pos": "adjective",
+    "definition": "international"
+  },
+  {
+    "word": "Parma",
+    "pos": "proper noun",
+    "definition": "Parma"
+  },
+  {
+    "word": "francese",
+    "pos": "adjective",
+    "definition": "French"
+  },
+  {
+    "word": "speranza",
+    "pos": "noun",
+    "definition": "hope"
+  },
+  {
+    "word": "tuo",
+    "pos": "determiner",
+    "definition": "your"
+  },
+  {
+    "word": "messaggio",
+    "pos": "noun",
+    "definition": "message"
+  },
+  {
+    "word": "acquisto",
+    "pos": "noun",
+    "definition": "purchase"
+  },
+  {
+    "word": "studente",
+    "pos": "noun",
+    "definition": "student"
+  },
+  {
+    "word": "sciopero",
+    "pos": "noun",
+    "definition": "strike"
+  },
+  {
+    "word": "padre",
+    "pos": "noun",
+    "definition": "father"
+  },
+  {
+    "word": "portavoce",
+    "pos": "noun",
+    "definition": "spokeperson"
+  },
+  {
+    "word": "premier",
+    "pos": "noun",
+    "definition": "premier"
+  },
+  {
+    "word": "terra",
+    "pos": "noun",
+    "definition": "soil, Earth"
+  },
+  {
+    "word": "completo",
+    "pos": "adjective",
+    "definition": "full"
+  },
+  {
+    "word": "nemmeno",
+    "pos": "adverb",
+    "definition": "not even"
+  },
+  {
+    "word": "appello",
+    "pos": "noun",
+    "definition": "appeal"
+  },
+  {
+    "word": "disposizione",
+    "pos": "noun",
+    "definition": "disposal"
+  },
+  {
+    "word": "lira",
+    "pos": "noun",
+    "definition": "lira"
+  },
+  {
+    "word": "allenamento",
+    "pos": "noun",
+    "definition": "training"
+  },
+  {
+    "word": "rivelare",
+    "pos": "verb",
+    "definition": "to reveal"
+  },
+  {
+    "word": "provvedimento",
+    "pos": "noun",
+    "definition": "measure"
+  },
+  {
+    "word": "qualità",
+    "pos": "noun",
+    "definition": "quality"
+  },
+  {
+    "word": "sconfitta",
+    "pos": "noun",
+    "definition": "defeat"
+  },
+  {
+    "word": "magari",
+    "pos": "adverb",
+    "definition": "maybe, I wish!"
+  },
+  {
+    "word": "Torino",
+    "pos": "proper noun",
+    "definition": "Turin"
+  },
+  {
+    "word": "carta",
+    "pos": "noun",
+    "definition": "paper"
+  },
+  {
+    "word": "disponibile",
+    "pos": "adjective",
+    "definition": "available"
+  },
+  {
+    "word": "tribunale",
+    "pos": "noun",
+    "definition": "court"
+  },
+  {
+    "word": "responsabile",
+    "pos": "noun",
+    "definition": "person in charge"
+  },
+  {
+    "word": "succedere",
+    "pos": "verb",
+    "definition": "to happen, to succeed"
+  },
+  {
+    "word": "seguito",
+    "pos": "noun",
+    "definition": "sequel, continuation"
+  },
+  {
+    "word": "pericolo",
+    "pos": "noun",
+    "definition": "danger"
+  },
+  {
+    "word": "club",
+    "pos": "noun",
+    "definition": "club"
+  },
+  {
+    "word": "azienda",
+    "pos": "noun",
+    "definition": "company"
+  },
+  {
+    "word": "media",
+    "pos": "noun",
+    "definition": "average"
+  },
+  {
+    "word": "emergenza",
+    "pos": "noun",
+    "definition": "emergency"
+  },
+  {
+    "word": "spiegare",
+    "pos": "verb",
+    "definition": "to explain"
+  },
+  {
+    "word": "capitale",
+    "pos": "noun",
+    "definition": "capital"
+  },
+  {
+    "word": "luogo",
+    "pos": "noun",
+    "definition": "place"
+  },
+  {
+    "word": "sociale",
+    "pos": "adjective",
+    "definition": "social"
+  },
+  {
+    "word": "tipo",
+    "pos": "noun",
+    "definition": "character, type, dude"
+  },
+  {
+    "word": "Lazio",
+    "pos": "proper noun",
+    "definition": "Lazio"
+  },
+  {
+    "word": "candidato",
+    "pos": "noun",
+    "definition": "candidate"
+  },
+  {
+    "word": "numeroso",
+    "pos": "adjective",
+    "definition": "numerous"
+  },
+  {
+    "word": "ricorso",
+    "pos": "noun",
+    "definition": "appeal"
+  },
+  {
+    "word": "otto",
+    "pos": "numeral",
+    "definition": "eight"
+  },
+  {
+    "word": "cifra",
+    "pos": "noun",
+    "definition": "figure"
+  },
+  {
+    "word": "stadio",
+    "pos": "noun",
+    "definition": "stadium"
+  },
+  {
+    "word": "campagna",
+    "pos": "noun",
+    "definition": "countryside"
+  },
+  {
+    "word": "estero",
+    "pos": "noun",
+    "definition": "abroad"
+  },
+  {
+    "word": "addio",
+    "pos": "noun",
+    "definition": "goodbye"
+  },
+  {
+    "word": "risultare",
+    "pos": "verb",
+    "definition": "result in, turn out to be"
+  },
+  {
+    "word": "dichiarare",
+    "pos": "verb",
+    "definition": "to declare"
+  },
+  {
+    "word": "tenere",
+    "pos": "verb",
+    "definition": "to hold"
+  },
+  {
+    "word": "le",
+    "pos": "pronoun",
+    "definition": "her, them"
+  },
+  {
+    "word": "battere",
+    "pos": "verb",
+    "definition": "to beat"
+  },
+  {
+    "word": "parere",
+    "pos": "verb",
+    "definition": "seem, appear"
+  },
+  {
+    "word": "Palermo",
+    "pos": "proper noun",
+    "definition": "Palermo"
+  },
+  {
+    "word": "valere",
+    "pos": "verb",
+    "definition": "to be worth"
+  },
+  {
+    "word": "modello",
+    "pos": "noun",
+    "definition": "model"
+  },
+  {
+    "word": "luce",
+    "pos": "noun",
+    "definition": "light"
+  },
+  {
+    "word": "toccare",
+    "pos": "verb",
+    "definition": "to touch"
+  },
+  {
+    "word": "struttura",
+    "pos": "noun",
+    "definition": "structure"
+  },
+  {
+    "word": "merito",
+    "pos": "noun",
+    "definition": "merit"
+  },
+  {
+    "word": "sportivo",
+    "pos": "adjective",
+    "definition": "sports"
+  },
+  {
+    "word": "vantaggio",
+    "pos": "noun",
+    "definition": "advantage, benefit"
+  },
+  {
+    "word": "pubblicare",
+    "pos": "verb",
+    "definition": "to publish"
+  },
+  {
+    "word": "tragedia",
+    "pos": "noun",
+    "definition": "tragedy"
+  },
+  {
+    "word": "evento",
+    "pos": "noun",
+    "definition": "event"
+  },
+  {
+    "word": "visita",
+    "pos": "noun",
+    "definition": "visit"
+  },
+  {
+    "word": "dichiarazione",
+    "pos": "noun",
+    "definition": "declaration"
+  },
+  {
+    "word": "bianco",
+    "pos": "adjective",
+    "definition": "white"
+  },
+  {
+    "word": "forma",
+    "pos": "noun",
+    "definition": "form"
+  },
+  {
+    "word": "scendere",
+    "pos": "verb",
+    "definition": "to descend, to go down"
+  },
+  {
+    "word": "recuperare",
+    "pos": "verb",
+    "definition": "to retrieve, to recover"
+  },
+  {
+    "word": "sede",
+    "pos": "noun",
+    "definition": "branch"
+  },
+  {
+    "word": "comunicato",
+    "pos": "noun",
+    "definition": "public notice"
+  },
+  {
+    "word": "misura",
+    "pos": "noun",
+    "definition": "measure"
+  },
+  {
+    "word": "effetto",
+    "pos": "noun",
+    "definition": "effect"
+  },
+  {
+    "word": "ragazza",
+    "pos": "noun",
+    "definition": "girl"
+  },
+  {
+    "word": "ipotesi",
+    "pos": "noun",
+    "definition": "hypothesis"
+  },
+  {
+    "word": "difficoltà",
+    "pos": "noun",
+    "definition": "difficulty"
+  },
+  {
+    "word": "impegno",
+    "pos": "noun",
+    "definition": "commitment"
+  },
+  {
+    "word": "mondiale",
+    "pos": "adjective",
+    "definition": "world"
+  },
+  {
+    "word": "lontano",
+    "pos": "adjective",
+    "definition": "distant"
+  },
+  {
+    "word": "inutile",
+    "pos": "adjective",
+    "definition": "useless"
+  },
+  {
+    "word": "segretario",
+    "pos": "noun",
+    "definition": "secretary"
+  },
+  {
+    "word": "vigile",
+    "pos": "noun",
+    "definition": "traffic warden"
+  },
+  {
+    "word": "limite",
+    "pos": "noun",
+    "definition": "limit"
+  },
+  {
+    "word": "opposizione",
+    "pos": "noun",
+    "definition": "opposition"
+  },
+  {
+    "word": "pesante",
+    "pos": "adjective",
+    "definition": "heavy"
+  },
+  {
+    "word": "attualmente",
+    "pos": "adverb",
+    "definition": "currently"
+  },
+  {
+    "word": "lunedì",
+    "pos": "noun",
+    "definition": "Monday"
+  },
+  {
+    "word": "pista",
+    "pos": "noun",
+    "definition": "track"
+  },
+  {
+    "word": "ricordare",
+    "pos": "verb",
+    "definition": "to remember"
+  },
+  {
+    "word": "mostra",
+    "pos": "noun",
+    "definition": "show"
+  },
+  {
+    "word": "genitore",
+    "pos": "noun",
+    "definition": "parent"
+  },
+  {
+    "word": "svolgere",
+    "pos": "verb",
+    "definition": "carry out"
+  },
+  {
+    "word": "eppure",
+    "pos": "conjunction",
+    "definition": "and yet, but yet"
+  },
+  {
+    "word": "stavolta",
+    "pos": "adverb",
+    "definition": "this time"
+  },
+  {
+    "word": "presenza",
+    "pos": "noun",
+    "definition": "presence"
+  },
+  {
+    "word": "militare",
+    "pos": "adjective",
+    "definition": "military"
+  },
+  {
+    "word": "Paolo",
+    "pos": "proper noun",
+    "definition": "Paul"
+  },
+  {
+    "word": "responsabilità",
+    "pos": "noun",
+    "definition": "responsibility"
+  },
+  {
+    "word": "turno",
+    "pos": "noun",
+    "definition": "shift"
+  },
+  {
+    "word": "mare",
+    "pos": "noun",
+    "definition": "sea"
+  },
+  {
+    "word": "solidarietà",
+    "pos": "noun",
+    "definition": "solidarity"
+  },
+  {
+    "word": "completamente",
+    "pos": "adverb",
+    "definition": "completely"
+  },
+  {
+    "word": "periodo",
+    "pos": "noun",
+    "definition": "period"
+  },
+  {
+    "word": "fenomeno",
+    "pos": "noun",
+    "definition": "phenomenon"
+  },
+  {
+    "word": "durata",
+    "pos": "noun",
+    "definition": "duration"
+  },
+  {
+    "word": "fondamentale",
+    "pos": "adjective",
+    "definition": "basic"
+  },
+  {
+    "word": "tranquillo",
+    "pos": "adjective",
+    "definition": "calm"
+  },
+  {
+    "word": "solito",
+    "pos": "noun",
+    "definition": "usual"
+  },
+  {
+    "word": "serio",
+    "pos": "adjective",
+    "definition": "serious"
+  },
+  {
+    "word": "raggiungere",
+    "pos": "verb",
+    "definition": "to reach"
+  },
+  {
+    "word": "neanche",
+    "pos": "adverb",
+    "definition": "neither"
+  },
+  {
+    "word": "partecipazione",
+    "pos": "noun",
+    "definition": "participation"
+  },
+  {
+    "word": "risalire",
+    "pos": "verb",
+    "definition": "date back to, go back up"
+  },
+  {
+    "word": "assolutamente",
+    "pos": "adverb",
+    "definition": "absolutely"
+  },
+  {
+    "word": "aiuto",
+    "pos": "noun",
+    "definition": "help"
+  },
+  {
+    "word": "esperienza",
+    "pos": "noun",
+    "definition": "experience"
+  },
+  {
+    "word": "vario",
+    "pos": "adjective",
+    "definition": "varied"
+  },
+  {
+    "word": "giovedì",
+    "pos": "noun",
+    "definition": "Thursday"
+  },
+  {
+    "word": "occorrere",
+    "pos": "verb",
+    "definition": "to be required"
+  },
+  {
+    "word": "trattativa",
+    "pos": "noun",
+    "definition": "negotiation"
+  },
+  {
+    "word": "finora",
+    "pos": "adverb",
+    "definition": "till now"
+  },
+  {
+    "word": "fissare",
+    "pos": "verb",
+    "definition": "set, fixate on, secure"
+  },
+  {
+    "word": "opera",
+    "pos": "noun",
+    "definition": "endeavour, opera"
+  },
+  {
+    "word": "mattina",
+    "pos": "noun",
+    "definition": "morning"
+  },
+  {
+    "word": "Natale",
+    "pos": "proper noun",
+    "definition": "Christmas"
+  },
+  {
+    "word": "debole",
+    "pos": "adjective",
+    "definition": "weak"
+  },
+  {
+    "word": "concludere",
+    "pos": "verb",
+    "definition": "to conclude"
+  },
+  {
+    "word": "sbagliare",
+    "pos": "verb",
+    "definition": "to make a mistake"
+  },
+  {
+    "word": "area",
+    "pos": "noun",
+    "definition": "area"
+  },
+  {
+    "word": "terminare",
+    "pos": "verb",
+    "definition": "to end"
+  },
+  {
+    "word": "veramente",
+    "pos": "adverb",
+    "definition": "truly"
+  },
+  {
+    "word": "interessante",
+    "pos": "adjective",
+    "definition": "interesting"
+  },
+  {
+    "word": "ce",
+    "pos": "pronoun",
+    "definition": "us, to us"
+  },
+  {
+    "word": "perfetto",
+    "pos": "adjective",
+    "definition": "perfect"
+  },
+  {
+    "word": "lotta",
+    "pos": "noun",
+    "definition": "struggle"
+  },
+  {
+    "word": "finanziario",
+    "pos": "adjective",
+    "definition": "financial"
+  },
+  {
+    "word": "dietro",
+    "pos": "adverb",
+    "definition": "behind"
+  },
+  {
+    "word": "borsa",
+    "pos": "noun",
+    "definition": "bag"
+  },
+  {
+    "word": "compagnia",
+    "pos": "noun",
+    "definition": "company"
+  },
+  {
+    "word": "documento",
+    "pos": "noun",
+    "definition": "document"
+  },
+  {
+    "word": "giunta",
+    "pos": "noun",
+    "definition": "council"
+  },
+  {
+    "word": "centrale",
+    "pos": "adjective",
+    "definition": "central"
+  },
+  {
+    "word": "aria",
+    "pos": "noun",
+    "definition": "air"
+  },
+  {
+    "word": "precedente",
+    "pos": "adjective",
+    "definition": "previous"
+  },
+  {
+    "word": "pioggia",
+    "pos": "noun",
+    "definition": "rain"
+  },
+  {
+    "word": "affidare",
+    "pos": "verb",
+    "definition": "to entrust"
+  },
+  {
+    "word": "critica",
+    "pos": "noun",
+    "definition": "criticism"
+  },
+  {
+    "word": "straordinario",
+    "pos": "adjective",
+    "definition": "extraordinary, overtime"
+  },
+  {
+    "word": "correre",
+    "pos": "verb",
+    "definition": "to run"
+  },
+  {
+    "word": "passione",
+    "pos": "noun",
+    "definition": "passion"
+  },
+  {
+    "word": "privato",
+    "pos": "adjective",
+    "definition": "private"
+  },
+  {
+    "word": "bloccare",
+    "pos": "verb",
+    "definition": "to block"
+  },
+  {
+    "word": "faccia",
+    "pos": "noun",
+    "definition": "face"
+  },
+  {
+    "word": "segnare",
+    "pos": "verb",
+    "definition": "to mark"
+  },
+  {
+    "word": "accettare",
+    "pos": "verb",
+    "definition": "to accept"
+  },
+  {
+    "word": "esperto",
+    "pos": "noun",
+    "definition": "expert"
+  },
+  {
+    "word": "fermo",
+    "pos": "adjective",
+    "definition": "fixed"
+  },
+  {
+    "word": "appunto",
+    "pos": "adverb",
+    "definition": "precisely"
+  },
+  {
+    "word": "colpire",
+    "pos": "verb",
+    "definition": "to hit"
+  },
+  {
+    "word": "avvio",
+    "pos": "noun",
+    "definition": "start"
+  },
+  {
+    "word": "segreto",
+    "pos": "noun",
+    "definition": "secret"
+  },
+  {
+    "word": "ufficio",
+    "pos": "noun",
+    "definition": "office"
+  },
+  {
+    "word": "usare",
+    "pos": "verb",
+    "definition": "to use"
+  },
+  {
+    "word": "scoprire",
+    "pos": "verb",
+    "definition": "discover"
+  },
+  {
+    "word": "macchina",
+    "pos": "noun",
+    "definition": "machine"
+  },
+  {
+    "word": "destra",
+    "pos": "noun",
+    "definition": "right"
+  },
+  {
+    "word": "decisivo",
+    "pos": "adjective",
+    "definition": "decisive"
+  },
+  {
+    "word": "taglio",
+    "pos": "noun",
+    "definition": "cut"
+  },
+  {
+    "word": "giustizia",
+    "pos": "noun",
+    "definition": "justice"
+  },
+  {
+    "word": "immigrato",
+    "pos": "noun",
+    "definition": "immigrant"
+  },
+  {
+    "word": "avversario",
+    "pos": "noun",
+    "definition": "opponent"
+  },
+  {
+    "word": "previsione",
+    "pos": "noun",
+    "definition": "forecast"
+  },
+  {
+    "word": "rappresentare",
+    "pos": "verb",
+    "definition": "to represent"
+  },
+  {
+    "word": "dibattito",
+    "pos": "noun",
+    "definition": "debate"
+  },
+  {
+    "word": "cedere",
+    "pos": "verb",
+    "definition": "to surrender"
+  },
+  {
+    "word": "libertà",
+    "pos": "noun",
+    "definition": "freedom"
+  },
+  {
+    "word": "ingresso",
+    "pos": "noun",
+    "definition": "entrance"
+  },
+  {
+    "word": "produzione",
+    "pos": "noun",
+    "definition": "production"
+  },
+  {
+    "word": "praticamente",
+    "pos": "adverb",
+    "definition": "practically"
+  },
+  {
+    "word": "clima",
+    "pos": "noun",
+    "definition": "climate"
+  },
+  {
+    "word": "sicuro",
+    "pos": "adjective",
+    "definition": "safe"
+  },
+  {
+    "word": "migliorare",
+    "pos": "verb",
+    "definition": "to improve"
+  },
+  {
+    "word": "sud",
+    "pos": "noun",
+    "definition": "south"
+  },
+  {
+    "word": "metà",
+    "pos": "noun",
+    "definition": "half"
+  },
+  {
+    "word": "difendere",
+    "pos": "verb",
+    "definition": "to defend, to stick up for"
+  },
+  {
+    "word": "caldo",
+    "pos": "adjective",
+    "definition": "hot"
+  },
+  {
+    "word": "cura",
+    "pos": "noun",
+    "definition": "cure"
+  },
+  {
+    "word": "lanciare",
+    "pos": "verb",
+    "definition": "to launch"
+  },
+  {
+    "word": "vostro",
+    "pos": "determiner",
+    "definition": "your"
+  },
+  {
+    "word": "guadagnare",
+    "pos": "verb",
+    "definition": "to earn"
+  },
+  {
+    "word": "falso",
+    "pos": "adjective",
+    "definition": "false"
+  },
+  {
+    "word": "prodotto",
+    "pos": "noun",
+    "definition": "product"
+  },
+  {
+    "word": "manovra",
+    "pos": "noun",
+    "definition": "maneuvre, ploy"
+  },
+  {
+    "word": "speciale",
+    "pos": "adjective",
+    "definition": "special"
+  },
+  {
+    "word": "offerta",
+    "pos": "noun",
+    "definition": "offer"
+  },
+  {
+    "word": "giornale",
+    "pos": "noun",
+    "definition": "newspaper"
+  },
+  {
+    "word": "cambiamento",
+    "pos": "noun",
+    "definition": "a change"
+  },
+  {
+    "word": "rivoluzione",
+    "pos": "noun",
+    "definition": "revolution"
+  },
+  {
+    "word": "parlamento",
+    "pos": "noun",
+    "definition": "parliament"
+  },
+  {
+    "word": "caccia",
+    "pos": "noun",
+    "definition": "hunting"
+  },
+  {
+    "word": "attività",
+    "pos": "noun",
+    "definition": "activity"
+  },
+  {
+    "word": "replica",
+    "pos": "noun",
+    "definition": "reply"
+  },
+  {
+    "word": "discussione",
+    "pos": "noun",
+    "definition": "discussion"
+  },
+  {
+    "word": "emozione",
+    "pos": "noun",
+    "definition": "emotion"
+  },
+  {
+    "word": "superare",
+    "pos": "verb",
+    "definition": "to exceed"
+  },
+  {
+    "word": "soccorso",
+    "pos": "noun",
+    "definition": "rescue"
+  },
+  {
+    "word": "necessario",
+    "pos": "adjective",
+    "definition": "necessary"
+  },
+  {
+    "word": "svolta",
+    "pos": "noun",
+    "definition": "turn, turning point"
+  },
+  {
+    "word": "repubblica",
+    "pos": "noun",
+    "definition": "republic"
+  },
+  {
+    "word": "lavoratore",
+    "pos": "noun",
+    "definition": "worker"
+  },
+  {
+    "word": "pericoloso",
+    "pos": "adjective",
+    "definition": "dangerous"
+  },
+  {
+    "word": "probabilmente",
+    "pos": "adverb",
+    "definition": "probably"
+  },
+  {
+    "word": "pareggio",
+    "pos": "noun",
+    "definition": "tie"
+  },
+  {
+    "word": "impossibile",
+    "pos": "adjective",
+    "definition": "impossible"
+  },
+  {
+    "word": "autorità",
+    "pos": "noun",
+    "definition": "authority"
+  },
+  {
+    "word": "sostenere",
+    "pos": "verb",
+    "definition": "support, maintain"
+  },
+  {
+    "word": "esterno",
+    "pos": "adjective",
+    "definition": "external"
+  },
+  {
+    "word": "realizzare",
+    "pos": "verb",
+    "definition": "to achieve"
+  },
+  {
+    "word": "data",
+    "pos": "noun",
+    "definition": "date"
+  },
+  {
+    "word": "piuttosto",
+    "pos": "adverb",
+    "definition": "rather"
+  },
+  {
+    "word": "televisione",
+    "pos": "noun",
+    "definition": "television"
+  },
+  {
+    "word": "biglietto",
+    "pos": "noun",
+    "definition": "ticket"
+  },
+  {
+    "word": "spagnolo",
+    "pos": "adjective",
+    "definition": "Spanish"
+  },
+  {
+    "word": "ricevere",
+    "pos": "verb",
+    "definition": "to receive"
+  },
+  {
+    "word": "capoluogo",
+    "pos": "noun",
+    "definition": "capital"
+  },
+  {
+    "word": "ricordo",
+    "pos": "noun",
+    "definition": "memory"
+  },
+  {
+    "word": "soddisfazione",
+    "pos": "noun",
+    "definition": "satisfaction"
+  },
+  {
+    "word": "apertura",
+    "pos": "noun",
+    "definition": "opening"
+  },
+  {
+    "word": "appena",
+    "pos": "adverb",
+    "definition": "just, barely"
+  },
+  {
+    "word": "movimento",
+    "pos": "noun",
+    "definition": "movement"
+  },
+  {
+    "word": "esame",
+    "pos": "noun",
+    "definition": "examination"
+  },
+  {
+    "word": "riunione",
+    "pos": "noun",
+    "definition": "meeting"
+  },
+  {
+    "word": "utile",
+    "pos": "adjective",
+    "definition": "useful"
+  },
+  {
+    "word": "seduta",
+    "pos": "noun",
+    "definition": "sitting"
+  },
+  {
+    "word": "accusare",
+    "pos": "verb",
+    "definition": "to accuse"
+  },
+  {
+    "word": "altrimenti",
+    "pos": "adverb",
+    "definition": "otherwise"
+  },
+  {
+    "word": "fuga",
+    "pos": "noun",
+    "definition": "escape"
+  },
+  {
+    "word": "rifiuto",
+    "pos": "noun",
+    "definition": "rejection"
+  },
+  {
+    "word": "fiamma",
+    "pos": "noun",
+    "definition": "flame"
+  },
+  {
+    "word": "velocità",
+    "pos": "noun",
+    "definition": "speed"
+  },
+  {
+    "word": "salute",
+    "pos": "noun",
+    "definition": "health"
+  },
+  {
+    "word": "percorso",
+    "pos": "noun",
+    "definition": "path"
+  },
+  {
+    "word": "match",
+    "pos": "noun",
+    "definition": "match"
+  },
+  {
+    "word": "madre",
+    "pos": "noun",
+    "definition": "mother"
+  },
+  {
+    "word": "volo",
+    "pos": "noun",
+    "definition": "flight"
+  },
+  {
+    "word": "disagio",
+    "pos": "noun",
+    "definition": "discomfort"
+  },
+  {
+    "word": "treno",
+    "pos": "noun",
+    "definition": "train"
+  },
+  {
+    "word": "ritardo",
+    "pos": "noun",
+    "definition": "delay"
+  },
+  {
+    "word": "raccontare",
+    "pos": "verb",
+    "definition": "to tell"
+  },
+  {
+    "word": "fortuna",
+    "pos": "noun",
+    "definition": "luck"
+  },
+  {
+    "word": "inglese",
+    "pos": "adjective",
+    "definition": "English"
+  },
+  {
+    "word": "conseguenza",
+    "pos": "noun",
+    "definition": "consequence"
+  },
+  {
+    "word": "ambiente",
+    "pos": "noun",
+    "definition": "environment"
+  },
+  {
+    "word": "voi",
+    "pos": "pronoun",
+    "definition": "you"
+  },
+  {
+    "word": "terremoto",
+    "pos": "noun",
+    "definition": "earthquake"
+  },
+  {
+    "word": "lettera",
+    "pos": "noun",
+    "definition": "letter"
+  },
+  {
+    "word": "porre",
+    "pos": "verb",
+    "definition": "put, set, pay"
+  },
+  {
+    "word": "difensore",
+    "pos": "noun",
+    "definition": "defender"
+  },
+  {
+    "word": "strategia",
+    "pos": "noun",
+    "definition": "strategy"
+  },
+  {
+    "word": "sangue",
+    "pos": "noun",
+    "definition": "blood"
+  },
+  {
+    "word": "carriera",
+    "pos": "noun",
+    "definition": "career"
+  },
+  {
+    "word": "ritiro",
+    "pos": "noun",
+    "definition": "withdrawal"
+  },
+  {
+    "word": "grosso",
+    "pos": "adjective",
+    "definition": "big"
+  },
+  {
+    "word": "costare",
+    "pos": "verb",
+    "definition": "to cost"
+  },
+  {
+    "word": "umano",
+    "pos": "adjective",
+    "definition": "human"
+  },
+  {
+    "word": "conferma",
+    "pos": "noun",
+    "definition": "confirmation"
+  },
+  {
+    "word": "conclusione",
+    "pos": "noun",
+    "definition": "conclusion"
+  },
+  {
+    "word": "votare",
+    "pos": "verb",
+    "definition": "to vote"
+  },
+  {
+    "word": "firma",
+    "pos": "noun",
+    "definition": "signature"
+  },
+  {
+    "word": "sala",
+    "pos": "noun",
+    "definition": "room"
+  },
+  {
+    "word": "finalmente",
+    "pos": "adverb",
+    "definition": "at last"
+  },
+  {
+    "word": "creare",
+    "pos": "verb",
+    "definition": "to create"
+  },
+  {
+    "word": "trasporto",
+    "pos": "noun",
+    "definition": "transport"
+  },
+  {
+    "word": "considerare",
+    "pos": "verb",
+    "definition": "to consider"
+  },
+  {
+    "word": "possibilità",
+    "pos": "noun",
+    "definition": "possibility"
+  },
+  {
+    "word": "salvare",
+    "pos": "verb",
+    "definition": "to save"
+  },
+  {
+    "word": "decisamente",
+    "pos": "adverb",
+    "definition": "decidedly"
+  },
+  {
+    "word": "venerdì",
+    "pos": "noun",
+    "definition": "Friday"
+  },
+  {
+    "word": "dimenticare",
+    "pos": "verb",
+    "definition": "to forget"
+  },
+  {
+    "word": "vacanza",
+    "pos": "noun",
+    "definition": "vacation"
+  },
+  {
+    "word": "centrosinistra",
+    "pos": "noun",
+    "definition": "center left"
+  },
+  {
+    "word": "ottenere",
+    "pos": "verb",
+    "definition": "to obtain"
+  },
+  {
+    "word": "partecipare",
+    "pos": "verb",
+    "definition": "to participate in"
+  },
+  {
+    "word": "assoluto",
+    "pos": "adjective",
+    "definition": "absolute"
+  },
+  {
+    "word": "investimento",
+    "pos": "noun",
+    "definition": "investment"
+  },
+  {
+    "word": "vivo",
+    "pos": "adjective",
+    "definition": "live"
+  },
+  {
+    "word": "direzione",
+    "pos": "noun",
+    "definition": "direction"
+  },
+  {
+    "word": "arte",
+    "pos": "noun",
+    "definition": "art"
+  },
+  {
+    "word": "tale",
+    "pos": "determiner",
+    "definition": "such"
+  },
+  {
+    "word": "oro",
+    "pos": "noun",
+    "definition": "gold"
+  },
+  {
+    "word": "camera",
+    "pos": "noun",
+    "definition": "room"
+  },
+  {
+    "word": "relazione",
+    "pos": "noun",
+    "definition": "relationship, link"
+  },
+  {
+    "word": "abbastanza",
+    "pos": "adverb",
+    "definition": "enough"
+  },
+  {
+    "word": "zero",
+    "pos": "numeral",
+    "definition": "zero"
+  },
+  {
+    "word": "stile",
+    "pos": "noun",
+    "definition": "style"
+  },
+  {
+    "word": "preoccupazione",
+    "pos": "noun",
+    "definition": "worry"
+  },
+  {
+    "word": "personaggio",
+    "pos": "noun",
+    "definition": "character"
+  },
+  {
+    "word": "bravo",
+    "pos": "adjective",
+    "definition": "good at something"
+  },
+  {
+    "word": "incredibile",
+    "pos": "adjective",
+    "definition": "incredible"
+  },
+  {
+    "word": "quota",
+    "pos": "noun",
+    "definition": "amount"
+  },
+  {
+    "word": "definitivo",
+    "pos": "adjective",
+    "definition": "final, definitive"
+  },
+  {
+    "word": "mercoledì",
+    "pos": "noun",
+    "definition": "Wednesday"
+  },
+  {
+    "word": "basso",
+    "pos": "adjective",
+    "definition": "low"
+  },
+  {
+    "word": "categoria",
+    "pos": "noun",
+    "definition": "category"
+  },
+  {
+    "word": "dolore",
+    "pos": "noun",
+    "definition": "ache"
+  },
+  {
+    "word": "capitolo",
+    "pos": "noun",
+    "definition": "chapter"
+  },
+  {
+    "word": "popolo",
+    "pos": "noun",
+    "definition": "people"
+  },
+  {
+    "word": "effettuare",
+    "pos": "verb",
+    "definition": "to make"
+  },
+  {
+    "word": "immediato",
+    "pos": "adjective",
+    "definition": "immediate"
+  },
+  {
+    "word": "ulteriore",
+    "pos": "adjective",
+    "definition": "further"
+  },
+  {
+    "word": "lezione",
+    "pos": "noun",
+    "definition": "lesson"
+  },
+  {
+    "word": "furto",
+    "pos": "noun",
+    "definition": "theft"
+  },
+  {
+    "word": "meritare",
+    "pos": "verb",
+    "definition": "to deserve"
+  },
+  {
+    "word": "brutto",
+    "pos": "adjective",
+    "definition": "ugly"
+  },
+  {
+    "word": "preparare",
+    "pos": "verb",
+    "definition": "to prepare"
+  },
+  {
+    "word": "dipendere",
+    "pos": "verb",
+    "definition": "to depend"
+  },
+  {
+    "word": "minimo",
+    "pos": "adjective",
+    "definition": "least"
+  },
+  {
+    "word": "firmare",
+    "pos": "verb",
+    "definition": "to sign"
+  },
+  {
+    "word": "strano",
+    "pos": "adjective",
+    "definition": "strange"
+  },
+  {
+    "word": "interesse",
+    "pos": "noun",
+    "definition": "interest"
+  },
+  {
+    "word": "peggio",
+    "pos": "noun",
+    "definition": "the worst part"
+  },
+  {
+    "word": "nessun",
+    "pos": "determiner",
+    "definition": "no, none"
+  },
+  {
+    "word": "neve",
+    "pos": "noun",
+    "definition": "snow"
+  },
+  {
+    "word": "qualcuno",
+    "pos": "pronoun",
+    "definition": "someone"
+  },
+  {
+    "word": "netto",
+    "pos": "adjective",
+    "definition": "net"
+  },
+  {
+    "word": "felice",
+    "pos": "adjective",
+    "definition": "happy"
+  },
+  {
+    "word": "miracolo",
+    "pos": "noun",
+    "definition": "miracle"
+  },
+  {
+    "word": "democrazia",
+    "pos": "noun",
+    "definition": "democracy"
+  },
+  {
+    "word": "ribasso",
+    "pos": "noun",
+    "definition": "depreciation"
+  },
+  {
+    "word": "progresso",
+    "pos": "noun",
+    "definition": "progress"
+  },
+  {
+    "word": "turismo",
+    "pos": "noun",
+    "definition": "tourism"
+  },
+  {
+    "word": "rientrare",
+    "pos": "verb",
+    "definition": "return, go/come back"
+  },
+  {
+    "word": "magistrato",
+    "pos": "noun",
+    "definition": "magistrate"
+  },
+  {
+    "word": "contento",
+    "pos": "adjective",
+    "definition": "pleased"
+  },
+  {
+    "word": "chilometro",
+    "pos": "noun",
+    "definition": "kilometer"
+  },
+  {
+    "word": "guida",
+    "pos": "noun",
+    "definition": "guide"
+  },
+  {
+    "word": "terreno",
+    "pos": "noun",
+    "definition": "ground"
+  },
+  {
+    "word": "sereno",
+    "pos": "adjective",
+    "definition": "serene"
+  },
+  {
+    "word": "reale",
+    "pos": "adjective",
+    "definition": "real"
+  },
+  {
+    "word": "agenzia",
+    "pos": "noun",
+    "definition": "agency"
+  },
+  {
+    "word": "contenuto",
+    "pos": "noun",
+    "definition": "content"
+  },
+  {
+    "word": "guardia",
+    "pos": "noun",
+    "definition": "guard"
+  },
+  {
+    "word": "passaggio",
+    "pos": "noun",
+    "definition": "passage"
+  },
+  {
+    "word": "familiare",
+    "pos": "noun",
+    "definition": "relative"
+  },
+  {
+    "word": "complesso",
+    "pos": "adjective",
+    "definition": "complex"
+  },
+  {
+    "word": "memoria",
+    "pos": "noun",
+    "definition": "memory"
+  },
+  {
+    "word": "offrire",
+    "pos": "verb",
+    "definition": "to offer"
+  },
+  {
+    "word": "corte",
+    "pos": "noun",
+    "definition": "court"
+  },
+  {
+    "word": "attaccante",
+    "pos": "noun",
+    "definition": "striker"
+  },
+  {
+    "word": "prestazione",
+    "pos": "noun",
+    "definition": "performance"
+  },
+  {
+    "word": "traccia",
+    "pos": "noun",
+    "definition": "trace"
+  },
+  {
+    "word": "ospite",
+    "pos": "noun",
+    "definition": "guest"
+  },
+  {
+    "word": "freddo",
+    "pos": "adjective",
+    "definition": "cold"
+  },
+  {
+    "word": "dimissione",
+    "pos": "noun",
+    "definition": "discharge"
+  },
+  {
+    "word": "moglie",
+    "pos": "noun",
+    "definition": "wife"
+  },
+  {
+    "word": "affare",
+    "pos": "noun",
+    "definition": "business, matter"
+  },
+  {
+    "word": "quadro",
+    "pos": "noun",
+    "definition": "painting, picture"
+  },
+  {
+    "word": "interessare",
+    "pos": "verb",
+    "definition": "to interest"
+  },
+  {
+    "word": "dialogo",
+    "pos": "noun",
+    "definition": "dialogue"
+  },
+  {
+    "word": "gli",
+    "pos": "pronoun",
+    "definition": "him, them"
+  },
+  {
+    "word": "approvare",
+    "pos": "verb",
+    "definition": "to approve"
+  },
+  {
+    "word": "articolo",
+    "pos": "noun",
+    "definition": "article"
+  },
+  {
+    "word": "ritrovare",
+    "pos": "verb",
+    "definition": "to find"
+  },
+  {
+    "word": "estate",
+    "pos": "noun",
+    "definition": "summer"
+  },
+  {
+    "word": "stazione",
+    "pos": "noun",
+    "definition": "station"
+  },
+  {
+    "word": "attore",
+    "pos": "noun",
+    "definition": "actor"
+  },
+  {
+    "word": "promozione",
+    "pos": "noun",
+    "definition": "promotion"
+  },
+  {
+    "word": "palla",
+    "pos": "noun",
+    "definition": "ball"
+  },
+  {
+    "word": "cliente",
+    "pos": "noun",
+    "definition": "customer"
+  },
+  {
+    "word": "fratello",
+    "pos": "noun",
+    "definition": "brother"
+  },
+  {
+    "word": "normale",
+    "pos": "adjective",
+    "definition": "normal"
+  },
+  {
+    "word": "test",
+    "pos": "noun",
+    "definition": "test"
+  },
+  {
+    "word": "sanità",
+    "pos": "noun",
+    "definition": "healthcare"
+  },
+  {
+    "word": "parco",
+    "pos": "noun",
+    "definition": "park"
+  },
+  {
+    "word": "popolazione",
+    "pos": "noun",
+    "definition": "population"
+  },
+  {
+    "word": "dividere",
+    "pos": "verb",
+    "definition": "to divide"
+  },
+  {
+    "word": "cinese",
+    "pos": "adjective",
+    "definition": "Chinese"
+  },
+  {
+    "word": "angolo",
+    "pos": "noun",
+    "definition": "angle"
+  },
+  {
+    "word": "porto",
+    "pos": "noun",
+    "definition": "port"
+  },
+  {
+    "word": "segnalare",
+    "pos": "verb",
+    "definition": "signal, point out"
+  },
+  {
+    "word": "presentazione",
+    "pos": "noun",
+    "definition": "presentation"
+  },
+  {
+    "word": "straniero",
+    "pos": "adjective",
+    "definition": "foreign"
+  },
+  {
+    "word": "mistero",
+    "pos": "noun",
+    "definition": "mystery"
+  },
+  {
+    "word": "Firenze",
+    "pos": "proper noun",
+    "definition": "Florence"
+  },
+  {
+    "word": "concorso",
+    "pos": "noun",
+    "definition": "competitive exam, contest"
+  },
+  {
+    "word": "russo",
+    "pos": "adjective",
+    "definition": "Russian"
+  },
+  {
+    "word": "vuoto",
+    "pos": "adjective",
+    "definition": "empty"
+  },
+  {
+    "word": "genere",
+    "pos": "noun",
+    "definition": "genre, gender"
+  },
+  {
+    "word": "giungere",
+    "pos": "verb",
+    "definition": "to come"
+  },
+  {
+    "word": "ascoltare",
+    "pos": "verb",
+    "definition": "to listen"
+  },
+  {
+    "word": "nord",
+    "pos": "noun",
+    "definition": "north"
+  },
+  {
+    "word": "aspetto",
+    "pos": "noun",
+    "definition": "look"
+  },
+  {
+    "word": "gestione",
+    "pos": "noun",
+    "definition": "management"
+  },
+  {
+    "word": "pezzo",
+    "pos": "noun",
+    "definition": "piece"
+  },
+  {
+    "word": "contatto",
+    "pos": "noun",
+    "definition": "contact"
+  },
+  {
+    "word": "destino",
+    "pos": "noun",
+    "definition": "destiny"
+  },
+  {
+    "word": "autore",
+    "pos": "noun",
+    "definition": "author"
+  },
+  {
+    "word": "incontrare",
+    "pos": "verb",
+    "definition": "to encounter, to meet"
+  },
+  {
+    "word": "dedicare",
+    "pos": "verb",
+    "definition": "to dedicate"
+  },
+  {
+    "word": "decreto",
+    "pos": "noun",
+    "definition": "decree"
+  },
+  {
+    "word": "attuale",
+    "pos": "adjective",
+    "definition": "current"
+  },
+  {
+    "word": "regia",
+    "pos": "noun",
+    "definition": "direction"
+  },
+  {
+    "word": "web",
+    "pos": "noun",
+    "definition": "web"
+  },
+  {
+    "word": "pensione",
+    "pos": "noun",
+    "definition": "pension"
+  },
+  {
+    "word": "scudetto",
+    "pos": "noun",
+    "definition": "championship"
+  },
+  {
+    "word": "associazione",
+    "pos": "noun",
+    "definition": "association"
+  },
+  {
+    "word": "riferimento",
+    "pos": "noun",
+    "definition": "reference"
+  },
+  {
+    "word": "stasera",
+    "pos": "adverb",
+    "definition": "this evening"
+  },
+  {
+    "word": "portiere",
+    "pos": "noun",
+    "definition": "doorman"
+  },
+  {
+    "word": "palazzo",
+    "pos": "noun",
+    "definition": "building"
+  },
+  {
+    "word": "gesto",
+    "pos": "noun",
+    "definition": "gesture"
+  },
+  {
+    "word": "successivo",
+    "pos": "adjective",
+    "definition": "following"
+  },
+  {
+    "word": "escludere",
+    "pos": "verb",
+    "definition": "to exclude"
+  },
+  {
+    "word": "aiutare",
+    "pos": "verb",
+    "definition": "to help"
+  },
+  {
+    "word": "amministrazione",
+    "pos": "noun",
+    "definition": "administration"
+  },
+  {
+    "word": "critico",
+    "pos": "adjective",
+    "definition": "critical"
+  },
+  {
+    "word": "tappa",
+    "pos": "noun",
+    "definition": "stage"
+  },
+  {
+    "word": "smentire",
+    "pos": "verb",
+    "definition": "to deny"
+  },
+  {
+    "word": "pensiero",
+    "pos": "noun",
+    "definition": "thought"
+  },
+  {
+    "word": "concreto",
+    "pos": "adjective",
+    "definition": "concrete"
+  },
+  {
+    "word": "mantenere",
+    "pos": "verb",
+    "definition": "to keep"
+  },
+  {
+    "word": "organizzare",
+    "pos": "verb",
+    "definition": "to organize"
+  },
+  {
+    "word": "prospettiva",
+    "pos": "noun",
+    "definition": "perspective"
+  },
+  {
+    "word": "ripartire",
+    "pos": "verb",
+    "definition": "to leave again, recover"
+  },
+  {
+    "word": "pilota",
+    "pos": "noun",
+    "definition": "pilot"
+  },
+  {
+    "word": "ammontare",
+    "pos": "verb",
+    "definition": "amount to"
+  },
+  {
+    "word": "superiore",
+    "pos": "adjective",
+    "definition": "superior"
+  },
+  {
+    "word": "comunicazione",
+    "pos": "noun",
+    "definition": "communication"
+  },
+  {
+    "word": "sequestrare",
+    "pos": "verb",
+    "definition": "to confiscate, to seize"
+  },
+  {
+    "word": "salvezza",
+    "pos": "noun",
+    "definition": "salvation"
+  },
+  {
+    "word": "neppure",
+    "pos": "adverb",
+    "definition": "either, not even"
+  },
+  {
+    "word": "tassa",
+    "pos": "noun",
+    "definition": "tax"
+  },
+  {
+    "word": "anziano",
+    "pos": "noun",
+    "definition": "an elderly"
+  },
+  {
+    "word": "scenario",
+    "pos": "noun",
+    "definition": "scenario, scenery"
+  },
+  {
+    "word": "democratico",
+    "pos": "adjective",
+    "definition": "democratic"
+  },
+  {
+    "word": "quartiere",
+    "pos": "noun",
+    "definition": "district"
+  },
+  {
+    "word": "né",
+    "pos": "conjunction",
+    "definition": "neither...nor"
+  },
+  {
+    "word": "economia",
+    "pos": "noun",
+    "definition": "economy"
+  },
+  {
+    "word": "ricco",
+    "pos": "adjective",
+    "definition": "rich"
+  },
+  {
+    "word": "fiscale",
+    "pos": "adjective",
+    "definition": "financial"
+  },
+  {
+    "word": "vincente",
+    "pos": "adjective",
+    "definition": "winning"
+  },
+  {
+    "word": "centrocampo",
+    "pos": "noun",
+    "definition": "midfield"
+  },
+  {
+    "word": "risorsa",
+    "pos": "noun",
+    "definition": "resource"
+  },
+  {
+    "word": "cadere",
+    "pos": "verb",
+    "definition": "to fall"
+  },
+  {
+    "word": "utilizzare",
+    "pos": "verb",
+    "definition": "to use"
+  },
+  {
+    "word": "compagno",
+    "pos": "noun",
+    "definition": "companion"
+  },
+  {
+    "word": "provinciale",
+    "pos": "adjective",
+    "definition": "provincial"
+  },
+  {
+    "word": "moda",
+    "pos": "noun",
+    "definition": "fashion"
+  },
+  {
+    "word": "scambio",
+    "pos": "noun",
+    "definition": "exchange"
+  },
+  {
+    "word": "verde",
+    "pos": "adjective",
+    "definition": "green"
+  },
+  {
+    "word": "Brasile",
+    "pos": "proper noun",
+    "definition": "Brazil"
+  },
+  {
+    "word": "canzone",
+    "pos": "noun",
+    "definition": "song"
+  },
+  {
+    "word": "rosa",
+    "pos": "noun",
+    "definition": "rose"
+  },
+  {
+    "word": "Mario",
+    "pos": "proper noun",
+    "definition": "Mario"
+  },
+  {
+    "word": "accertamento",
+    "pos": "noun",
+    "definition": "verification"
+  },
+  {
+    "word": "quinto",
+    "pos": "adjective",
+    "definition": "fifth"
+  },
+  {
+    "word": "mamma",
+    "pos": "noun",
+    "definition": "mom"
+  },
+  {
+    "word": "signore",
+    "pos": "noun",
+    "definition": "mister, sir"
+  },
+  {
+    "word": "chiarire",
+    "pos": "verb",
+    "definition": "to clarify"
+  },
+  {
+    "word": "cielo",
+    "pos": "noun",
+    "definition": "sky"
+  },
+  {
+    "word": "classico",
+    "pos": "adjective",
+    "definition": "classic"
+  },
+  {
+    "word": "incendio",
+    "pos": "noun",
+    "definition": "fire"
+  },
+  {
+    "word": "parlamentare",
+    "pos": "adjective",
+    "definition": "parliamentary"
+  },
+  {
+    "word": "diretto",
+    "pos": "adjective",
+    "definition": "direct"
+  },
+  {
+    "word": "intorno",
+    "pos": "adverb",
+    "definition": "around"
+  },
+  {
+    "word": "evitare",
+    "pos": "verb",
+    "definition": "to avoid"
+  },
+  {
+    "word": "industriale",
+    "pos": "adjective",
+    "definition": "industrial"
+  },
+  {
+    "word": "amare",
+    "pos": "verb",
+    "definition": "to love"
+  },
+  {
+    "word": "definire",
+    "pos": "verb",
+    "definition": "to define"
+  },
+  {
+    "word": "dentro",
+    "pos": "adverb",
+    "definition": "inside"
+  },
+  {
+    "word": "consumatore",
+    "pos": "noun",
+    "definition": "consumer"
+  },
+  {
+    "word": "legale",
+    "pos": "adjective",
+    "definition": "legal, lawful"
+  },
+  {
+    "word": "flessione",
+    "pos": "noun",
+    "definition": "push-up, curve"
+  },
+  {
+    "word": "intero",
+    "pos": "adjective",
+    "definition": "entire"
+  },
+  {
+    "word": "decina",
+    "pos": "noun",
+    "definition": "dozens"
+  },
+  {
+    "word": "muro",
+    "pos": "noun",
+    "definition": "wall"
+  },
+  {
+    "word": "stella",
+    "pos": "noun",
+    "definition": "a star"
+  },
+  {
+    "word": "vendere",
+    "pos": "verb",
+    "definition": "to sell"
+  },
+  {
+    "word": "convegno",
+    "pos": "noun",
+    "definition": "meeting"
+  },
+  {
+    "word": "rispettare",
+    "pos": "verb",
+    "definition": "to respect"
+  }
+]
